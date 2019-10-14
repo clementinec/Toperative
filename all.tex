@@ -1,0 +1,66 @@
+\documentclass[review]{elsarticle}
+\usepackage{lineno,hyperref,amsmath,adjustbox,todonotes,gensymb,float,afterpage}
+\usepackage[margin=0.95in]{geometry}
+\usepackage{setspace}
+\usepackage[T1]{fontenc}
+\bibliographystyle{elsarticle-num}
+\journal{TBD}
+\begin{document}\begin{frontmatter}
+\title{Thermal comfort models and measurement techniques as proxies of simplified occupant comfort}
+\author[mymainaddress]{Hongshan Guo}
+\author[mymainaddress]{Eric Teitelbaum}
+% \author[mythirdaddress]{Clayton Miller}
+\author[mymainaddress,mysecondaryaddress]{Forrest Meggers\corref{mycorrespondingauthor}}
+\cortext[mycorrespondingauthor]{Corresponding author}
+\ead{fmeggers@princeton.edu}
+\address[mymainaddress]{School of Architecture, Princeton University, USA}
+\address[mysecondaryaddress]{Andlinger Center for Energy and the Environment, Princeton University, USA.}
+% \address[mythirdaddress]{National University of Singapore, Singapore.}
+\begin{abstract}
+Thermal comfort of the occupants remains a red-hot topic at this day and age despite all the emerging technologies in sensing and control technologies. We want to understand why: After more than 100 years of introducing mechanical systems, how could architects and engineers still continue to struggle with the seemingly easy goal of keeping the occupants comfortable in the built environment? 
+We will first begin with examining the metrics that they have developed to characterize a built environment as a proxy of thermal comfort. 
+While most metrics are either temperature-like or vote-like which supposedly are good placeholders for actual occupants response, there are some key elements missing in these metrics: the direct physiological responses and individual differences of the occupants, not to mention further simplifications regarding hard-to-measure/control environmental parameters.
+We conclude that there is not a definitive answer to achieve the best possible thermal comfort, but it surely should not be completely taking the occupants and their differences out from the equations.
+We then examined the conventional methods used in monitoring occupants' comfort - both their strengths, weaknesses and their corresponding simplifications involved when being used to predict the actual comfort of the occupants.
+
+There are mainly two things this paper wants to address: First, how occupants are simplified into not only an average hypothetical person, where the hypothetical person's thermal comfort gets further simplified into a few or even a single environmental parameter.
+%A group into a person, into a parameter. 
+
+\end{abstract}
+\begin{keyword}thermal comfort\sep radiant sensing\sep operative temperature\sep mean radiant temperature\end{keyword}\end{frontmatter}
+\tableofcontents
+\section{Introduction}
+\input{1intro.tex}
+
+\section{Existing metrics}
+    \subsection{Indoor}
+    \input{2_1Exi_indoor.tex}
+    \subsection{Outdoor} 
+    \input{2_2Exi_outdoor.tex}
+
+\section{Common Simplifications and Assumptions found in the equivalence of thermal comfort}
+    \subsection{Occupant-related Simplifications}
+    \input{3_1simp_occup.tex}
+    \subsection{Environmental Parameters Simplifications}
+    \input{3_2simp_envi.tex}
+%To be depreciated into either a few paragraphs or completely buried in text, particularly the sensors. 
+% \section{Tools used in determining state of thermal comfort}
+%         \subsection{Apparatus}
+%         \input{4_1_tools_apparatus.tex}
+%         \subsection{Analytical tools - the comfort zones}        
+%         \input{4_2_tools_anaCZ.tex}
+\section{Latest Efforts in addressing the absence of occupant in OCC}
+%Regarding the 2nd level of abstraction: how this is further emphasised improved into the buildings later. 
+    \subsection{Objective measurement}
+    \input{4_1_Objective.tex}
+    \subsection{Subjective feedback}
+    \input{4_2_Subjective.tex}
+    \subsection{Occupant-centric building control}
+    %Should be fairly easy as we're just including the June publication back here... but maybe not. 
+    \subsection{Personalized thermal comfort model}
+    \subsection{Direct physiological feedback}
+% \section{Results and Discussions}
+\section{Conclusion}
+\input{5_conclusions.tex}
+\bibliography{top}
+\end{document}
