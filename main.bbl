@@ -1,0 +1,264 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{bedford_globe_1934}
+T.~Bedford, C.~G. Warner,
+  \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2170907/}{The {Globe}
+  {Thermometer} in {Studies} of {Heating} and {Ventilation}}, The Journal of
+  Hygiene 34~(4) (1934) 458--473.
+\newline\urlprefix\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2170907/}
+
+\bibitem{ansi/ashrae_standard_2017}
+{ANSI/ASHRAE},
+  \href{https://www.ashrae.org/technical-resources/bookstore/standard-55-thermal-environmental-conditions-for-human-occupancy}{Standard
+  55-2017, thermal environmental conditions for human occupancy}.
+\newline\urlprefix\url{https://www.ashrae.org/technical-resources/bookstore/standard-55-thermal-environmental-conditions-for-human-occupancy}
+
+\bibitem{fanger_assessment_1973}
+P.~O. Fanger,
+  \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1069471/}{Assessment of
+  man's thermal comfort in practice} 30~(4)  313--324.
+\newline\urlprefix\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1069471/}
+
+\bibitem{h._hoppe_new_1992}
+{H. Hoppe}, A new procedure to determine the mean radiant temperature outdoors,
+  Wetter unt Leben 44 (1992) 147--151.
+
+\bibitem{hoppe_different_2002}
+P.~Höppe,
+  \href{http://www.sciencedirect.com/science/article/pii/S0378778802000178}{Different
+  aspects of assessing indoor and outdoor thermal comfort} 34~(6)  661--665.
+\newblock \href {http://dx.doi.org/10.1016/S0378-7788(02)00017-8}
+  {\path{doi:10.1016/S0378-7788(02)00017-8}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0378778802000178}
+
+\bibitem{shi_magnitude_2019}
+X.~Shi, B.~Si, J.~Zhao, Z.~Tian, C.~Wang, X.~Jin, X.~Zhou,
+  \href{http://www.mdpi.com/2071-1050/11/3/937}{Magnitude, causes, and
+  solutions of the performance gap of buildings: A review} 11~(3)  937.
+\newblock \href {http://dx.doi.org/10.3390/su11030937}
+  {\path{doi:10.3390/su11030937}}.
+\newline\urlprefix\url{http://www.mdpi.com/2071-1050/11/3/937}
+
+\bibitem{allard_energy_2018}
+I.~Allard, T.~Olofsson, G.~Nair,
+  \href{http://link.springer.com/10.1007/s12273-018-0439-7}{Energy evaluation
+  of residential buildings: Performance gap analysis incorporating
+  uncertainties in the evaluation methods} 11~(4)  725--737.
+\newblock \href {http://dx.doi.org/10.1007/s12273-018-0439-7}
+  {\path{doi:10.1007/s12273-018-0439-7}}.
+\newline\urlprefix\url{http://link.springer.com/10.1007/s12273-018-0439-7}
+
+\bibitem{peng_using_2018}
+Y.~Peng, A.~Rysanek, Z.~Nagy, A.~Schlüter,
+  \href{http://www.sciencedirect.com/science/article/pii/S0306261917317129}{Using
+  machine learning techniques for occupancy-prediction-based cooling control in
+  office buildings} 211  1343--1358.
+\newblock \href {http://dx.doi.org/10.1016/j.apenergy.2017.12.002}
+  {\path{doi:10.1016/j.apenergy.2017.12.002}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0306261917317129}
+
+\bibitem{sugimoto_human_2013}
+C.~Sugimoto, Human sensing using wearable wireless sensors for smart
+  environments, in: 2013 Seventh International Conference on Sensing Technology
+  ({ICST}), pp. 188--192.
+\newblock \href {http://dx.doi.org/10.1109/ICSensT.2013.6727640}
+  {\path{doi:10.1109/ICSensT.2013.6727640}}.
+
+\bibitem{jazizadeh_user-led_2014}
+F.~Jazizadeh, A.~Ghahramani, B.~Becerik-Gerber, T.~Kichkaylo, M.~Orosz,
+  \href{http://www.sciencedirect.com/science/article/pii/S0378778813007731}{User-led
+  decentralized thermal comfort driven {HVAC} operations for improved
+  efficiency in office buildings} 70  398--410.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2013.11.066}
+  {\path{doi:10.1016/j.enbuild.2013.11.066}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0378778813007731}
+
+\bibitem{brooks_experimental_2014}
+J.~Brooks, S.~Goyal, R.~Subramany, Y.~Lin, T.~Middelkoop, L.~Arpan, L.~Carloni,
+  P.~Barooah, An experimental investigation of occupancy-based energy-efficient
+  control of commercial building indoor climate, in: 53rd {IEEE} Conference on
+  Decision and Control, pp. 5680--5685.
+\newblock \href {http://dx.doi.org/10.1109/CDC.2014.7040278}
+  {\path{doi:10.1109/CDC.2014.7040278}}.
+
+\bibitem{charles_fangers_2003}
+K.~E. Charles,
+  \href{https://nrc-publications.canada.ca/eng/view/object/?id=7525d344-a508-4fdc-9c04-d9d3a9767bdb}{Fanger's
+  thermal comfort and draught models}.
+\newblock \href {http://dx.doi.org/10.4224/20378865}
+  {\path{doi:10.4224/20378865}}.
+\newline\urlprefix\url{https://nrc-publications.canada.ca/eng/view/object/?id=7525d344-a508-4fdc-9c04-d9d3a9767bdb}
+
+\bibitem{nicol_adaptive_2002}
+J.~F. Nicol, M.~A. Humphreys,
+  \href{http://www.sciencedirect.com/science/article/pii/S0378778802000063}{Adaptive
+  thermal comfort and sustainable thermal standards for buildings} 34~(6)
+  563--572.
+\newblock \href {http://dx.doi.org/10.1016/S0378-7788(02)00006-3}
+  {\path{doi:10.1016/S0378-7788(02)00006-3}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0378778802000063}
+
+\bibitem{nicol_overview_2010}
+F.~Nicol, M.~Wilson, An overview of the {European} {Standard} {EN} 15251, in:
+  proceedings of {Conference}: {Adapting} to {Change}: {New} {Thinking} on
+  {Comfort}. {Cumberland} {Lodge}, {Windsor}, {UK}, Vol. 911, 2010.
+
+\bibitem{kim_personal_2018}
+J.~Kim, Y.~Zhou, S.~Schiavon, P.~Raftery, G.~Brager,
+  \href{http://www.sciencedirect.com/science/article/pii/S0360132317305772}{Personal
+  comfort models: Predicting individuals' thermal preference using occupant
+  heating and cooling behavior and machine learning} 129  96--106.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2017.12.011}
+  {\path{doi:10.1016/j.buildenv.2017.12.011}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132317305772}
+
+\bibitem{noauthor_occupational_nodate}
+\href{https://www.jstage.jst.go.jp/article/indhealth/51/1/51_2012-0165/_article}{Occupational
+  {Health} {Impacts} of {Climate} {Change}: {Current} and {Future} {ISO}
+  {Standards} for the {Assessment} of {Heat} {Stress}}.
+\newline\urlprefix\url{https://www.jstage.jst.go.jp/article/indhealth/51/1/51_2012-0165/_article}
+
+\bibitem{salamone_integrated_2018}
+F.~Salamone, L.~Belussi, C.~Currò, L.~Danza, M.~Ghellere, G.~Guazzi, B.~Lenzi,
+  V.~Megale, I.~Meroni,
+  \href{https://www.mdpi.com/1424-8220/18/5/1602}{Integrated method for
+  personal thermal comfort assessment and optimization through users’
+  feedback, {IoT} and machine learning: A case study †} 18~(5)  1602.
+\newblock \href {http://dx.doi.org/10.3390/s18051602}
+  {\path{doi:10.3390/s18051602}}.
+\newline\urlprefix\url{https://www.mdpi.com/1424-8220/18/5/1602}
+
+\bibitem{gao_using_2010}
+Y.~Gao, E.~Tumwesigye, B.~Cahill, K.~Menzel, Using data mining in optimisation
+  of building energy consumption and thermal comfort management, in: The 2nd
+  International Conference on Software Engineering and Data Mining, pp.
+  434--439.
+
+\bibitem{abdallah_moatassem_sensing_2017}
+{Abdallah Moatassem}, {Clevenger Caroline}, {Vu Tam}, {Nguyen Anh},
+  \href{https://ascelibrary.org/doi/abs/10.1061/9780784479827.095}{Sensing
+  occupant comfort using wearable technologies}  940--950\href
+  {http://dx.doi.org/10.1061/9780784479827.095}
+  {\path{doi:10.1061/9780784479827.095}}.
+\newline\urlprefix\url{https://ascelibrary.org/doi/abs/10.1061/9780784479827.095}
+
+\bibitem{ashrae_ansi/ashrae_2013}
+{ASHRAE}, {ANSI}/{ASHRAE} {Standard} 55-2013. {Thermal} {Environmental}
+  {Conditions} for {Human} {Occupancy} (2013).
+
+\bibitem{fanger_calculation_1967}
+P.~O. Fanger, Calculation of {Thermal} {Comfort}: {Introductiof} a {Basic}
+  {Comfort} {Equation}, ASHRAE Transactions 73.
+
+\bibitem{ashrae_thermal_2003}
+{ASHRAE}, Thermal {Environmental} {Conditions} for {Human} {Occupancy} {ASHRAE}
+  {Standard} 55-1966, Tech. rep., American Society of Heating, Refrigerating
+  and Air-conditioning Engineers (May 2003).
+
+\bibitem{fanger_thermal_1970}
+P.~O. Fanger,
+  \href{https://www.cabdirect.org/cabdirect/abstract/19722700268}{Thermal
+  comfort. {Analysis} and applications in environmental engineering.}, Thermal
+  comfort. Analysis and applications in environmental engineering.
+\newline\urlprefix\url{https://www.cabdirect.org/cabdirect/abstract/19722700268}
+
+\bibitem{van_hoof_quantifying_2007}
+J.~van Hoof, J.~L.~M. Hensen,
+  \href{http://www.sciencedirect.com/science/article/pii/S0360132305003550}{Quantifying
+  the relevance of adaptive thermal comfort models in moderate thermal climate
+  zones} 42~(1)  156--170.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2005.08.023}
+  {\path{doi:10.1016/j.buildenv.2005.08.023}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132305003550}
+
+\bibitem{humphreys_validity_2002}
+M.~A. Humphreys, J.~Fergus~Nicol,
+  \href{http://www.sciencedirect.com/science/article/pii/S037877880200018X}{The
+  validity of {ISO}-{PMV} for predicting comfort votes in every-day thermal
+  environments} 34~(6)  667--684.
+\newblock \href {http://dx.doi.org/10.1016/S0378-7788(02)00018-X}
+  {\path{doi:10.1016/S0378-7788(02)00018-X}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S037877880200018X}
+
+\bibitem{cheong_local_2007}
+K.~Cheong, W.~Yu, S.~Sekhar, K.~Tham, R.~Kosonen,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S036013230500380X}{Local
+  thermal sensation and comfort study in a field environment chamber served by
+  displacement ventilation system in the tropics}, Building and Environment
+  42~(2) (2007) 525--533.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2005.09.008}
+  {\path{doi:10.1016/j.buildenv.2005.09.008}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S036013230500380X}
+
+\bibitem{de_dear_developing_1998}
+R.~de~Dear, G.~S. Brager,
+  \href{https://escholarship.org/uc/item/4qq2p9c6}{Developing an adaptive model
+  of thermal comfort and preference}.
+\newline\urlprefix\url{https://escholarship.org/uc/item/4qq2p9c6}
+
+\bibitem{van_hoof_forty_2008}
+J.~van Hoof,
+  \href{https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-0668.2007.00516.x}{Forty
+  years of fanger’s model of thermal comfort: comfort for all?} 18~(3)
+  182--201.
+\newblock \href {http://dx.doi.org/10.1111/j.1600-0668.2007.00516.x}
+  {\path{doi:10.1111/j.1600-0668.2007.00516.x}}.
+\newline\urlprefix\url{https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-0668.2007.00516.x}
+
+\bibitem{kingma_energy_2015}
+B.~Kingma, W.~van Marken~Lichtenbelt,
+  \href{https://www.nature.com/articles/nclimate2741}{Energy consumption in
+  buildings and female thermal demand} 5~(12)  1054--1056.
+\newblock \href {http://dx.doi.org/10.1038/nclimate2741}
+  {\path{doi:10.1038/nclimate2741}}.
+\newline\urlprefix\url{https://www.nature.com/articles/nclimate2741}
+
+\bibitem{wang_individual_2018}
+Z.~Wang, R.~de~Dear, M.~Luo, B.~Lin, Y.~He, A.~Ghahramani, Y.~Zhu,
+  \href{http://www.sciencedirect.com/science/article/pii/S0360132318302518}{Individual
+  difference in thermal comfort: A literature review} 138  181--193.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2018.04.040}
+  {\path{doi:10.1016/j.buildenv.2018.04.040}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132318302518}
+
+\bibitem{iso_iso_2005}
+ISO,
+  \href{https://www.iso.org/obp/ui/#iso:std:iso:7730:ed-3:v1:en}{{ISO} 7730:2005(en),
+  {Ergonomics} of the thermal environment — {Analytical} determination and
+  interpretation of thermal comfort using calculation of the {PMV} and {PPD}
+  indices and local thermal comfort criteria}, Tech. rep., International
+  Standard Organization (2005).
+\newline\urlprefix\url{https://www.iso.org/obp/ui/#iso:std:iso:7730:ed-3:v1:en}
+
+\bibitem{kantor_most_2011}
+N.~Kántor, J.~Unger,
+  \href{https://link.springer.com/article/10.2478/s13533-011-0010-x}{The most
+  problematic variable in the course of human-biometeorological comfort
+  assessment — the mean radiant temperature}, Central European Journal of
+  Geosciences 3~(1) (2011) 90--100.
+\newblock \href {http://dx.doi.org/10.2478/s13533-011-0010-x}
+  {\path{doi:10.2478/s13533-011-0010-x}}.
+\newline\urlprefix\url{https://link.springer.com/article/10.2478/s13533-011-0010-x}
+
+\bibitem{standardization_iso7726_2001}
+I.~O.~f. Standardization, {ISO}7726 {Ergonomics} of the thermal environment.
+  {Instruments} for measuring physical quantities..pdf, Tech. Rep. ICS 13.180
+  (2001).
+
+\bibitem{mccarthy_validation_2016}
+C.~{McCarthy}, N.~Pradhan, C.~Redpath, A.~Adler, Validation of the empatica e4
+  wristband, in: 2016 {IEEE} {EMBS} International Student Conference ({ISC}),
+  pp. 1--4.
+\newblock \href {http://dx.doi.org/10.1109/EMBSISC.2016.7508621}
+  {\path{doi:10.1109/EMBSISC.2016.7508621}}.
+
+\bibitem{choi_cobi:_2010}
+J.~H. Choi, {CoBi}: Bio-sensing building mechanical system controls for
+  sustainably enhancing individual thermal comfort.
+
+\end{thebibliography}

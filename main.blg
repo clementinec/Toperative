@@ -1,0 +1,95 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
+The style file: elsarticle-num.bst
+Database file #1: top.bib
+Warning--entry type for "choi_cobi:_2010" isn't style-file defined
+--line 764 of file top.bib
+Warning--entry type for "ansi/ashrae_standard_2017" isn't style-file defined
+--line 2039 of file top.bib
+Warning--entry type for "charles_fangers_2003" isn't style-file defined
+--line 2127 of file top.bib
+Repeated entry---line 2431 of file top.bib
+ : @article{wang_individual_2018
+ :                              ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for ""
+Warning--empty journal in fanger_assessment_1973
+Warning--empty year in fanger_assessment_1973
+Warning--empty journal in hoppe_different_2002
+Warning--empty year in hoppe_different_2002
+Warning--empty journal in shi_magnitude_2019
+Warning--empty year in shi_magnitude_2019
+Warning--empty journal in allard_energy_2018
+Warning--empty year in allard_energy_2018
+Warning--empty journal in peng_using_2018
+Warning--empty year in peng_using_2018
+Warning--empty year in sugimoto_human_2013
+Warning--empty journal in jazizadeh_user-led_2014
+Warning--empty year in jazizadeh_user-led_2014
+Warning--empty year in brooks_experimental_2014
+Warning--empty journal in nicol_adaptive_2002
+Warning--empty year in nicol_adaptive_2002
+Warning--empty pages in nicol_overview_2010
+Warning--empty journal in kim_personal_2018
+Warning--empty year in kim_personal_2018
+Warning--empty journal in salamone_integrated_2018
+Warning--empty year in salamone_integrated_2018
+Warning--empty year in gao_using_2010
+Warning--empty journal in abdallah_moatassem_sensing_2017
+Warning--empty year in abdallah_moatassem_sensing_2017
+Warning--empty journal in van_hoof_quantifying_2007
+Warning--empty year in van_hoof_quantifying_2007
+Warning--empty journal in humphreys_validity_2002
+Warning--empty year in humphreys_validity_2002
+Warning--empty journal in de_dear_developing_1998
+Warning--empty journal in van_hoof_forty_2008
+Warning--empty year in van_hoof_forty_2008
+Warning--empty journal in kingma_energy_2015
+Warning--empty year in kingma_energy_2015
+Warning--empty journal in wang_individual_2018
+Warning--empty year in wang_individual_2018
+Warning--empty institution in standardization_iso7726_2001
+Warning--empty year in mccarthy_validation_2016
+You've used 35 entries,
+            2937 wiz_defined-function locations,
+            882 strings with 13589 characters,
+and the built_in function-call counts, 10890 in all, are:
+= -- 1048
+> -- 320
+< -- 6
++ -- 130
+- -- 95
+* -- 892
+:= -- 1468
+add.period$ -- 54
+call.type$ -- 35
+change.case$ -- 37
+chr.to.int$ -- 0
+cite$ -- 72
+duplicate$ -- 352
+empty$ -- 1212
+format.name$ -- 115
+if$ -- 2764
+int.to.chr$ -- 0
+int.to.str$ -- 35
+missing$ -- 27
+newline$ -- 156
+num.names$ -- 34
+pop$ -- 248
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 623
+stack$ -- 0
+substring$ -- 572
+swap$ -- 108
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 37
+while$ -- 82
+width$ -- 37
+write$ -- 324
+(There was 1 error message)
