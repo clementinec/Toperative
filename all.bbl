@@ -250,6 +250,20 @@ I.~O.~f. Standardization, {ISO}7726 {Ergonomics} of the thermal environment.
   {Instruments} for measuring physical quantities..pdf, Tech. Rep. ICS 13.180
   (2001).
 
+\bibitem{energyplus_engineering_2013}
+EnergyPlus, Engineering {Reference}, THE BOARD OF TRUSTEES OF THE UNIVERSITY OF
+  ILLINOIS AND THE REGENTS OF THE UNIVERSITY OF CALIFORNIA THROUGH THE ERNEST
+  ORLANDO LAWRENCE BERKELEY NATIONAL LABORATORY., 2013, p 743 of 847.
+
+\bibitem{arens_modeling_2015}
+E.~Arens, T.~Hoyt, X.~Zhou, L.~Huang, H.~Zhang, S.~Schiavon,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0360132314002960}{Modeling
+  the comfort effects of short-wave solar radiation indoors}, Building and
+  Environment 88 (2015) 3--9.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2014.09.004}
+  {\path{doi:10.1016/j.buildenv.2014.09.004}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0360132314002960}
+
 \bibitem{mccarthy_validation_2016}
 C.~{McCarthy}, N.~Pradhan, C.~Redpath, A.~Adler, Validation of the empatica e4
   wristband, in: 2016 {IEEE} {EMBS} International Student Conference ({ISC}),

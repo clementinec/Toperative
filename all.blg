@@ -1,15 +1,35 @@
-This is BibTeX, Version 0.99d (TeX Live 2018)
+This is BibTeX, Version 0.99d (TeX Live 2019)
 Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: main.aux
+The top-level auxiliary file: all.aux
 The style file: elsarticle-num.bst
 Database file #1: top.bib
+Repeated entry---line 839 of file top.bib
+ : @article{jazizadeh_user-led_2014
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1069 of file top.bib
+ : @inproceedings{brooks_experimental_2014
+ :                                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1224 of file top.bib
+ : @article{peng_using_2018
+ :                         ,
+I'm skipping whatever remains of this entry
 Warning--entry type for "choi_cobi:_2010" isn't style-file defined
---line 764 of file top.bib
+--line 1514 of file top.bib
 Warning--entry type for "ansi/ashrae_standard_2017" isn't style-file defined
---line 2039 of file top.bib
+--line 2789 of file top.bib
 Warning--entry type for "charles_fangers_2003" isn't style-file defined
---line 2127 of file top.bib
-Repeated entry---line 2431 of file top.bib
+--line 2877 of file top.bib
+Repeated entry---line 2975 of file top.bib
+ : @article{shi_magnitude_2019
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2995 of file top.bib
+ : @article{allard_energy_2018
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3181 of file top.bib
  : @article{wang_individual_2018
  :                              ,
 I'm skipping whatever remains of this entry
@@ -51,45 +71,45 @@ Warning--empty journal in wang_individual_2018
 Warning--empty year in wang_individual_2018
 Warning--empty institution in standardization_iso7726_2001
 Warning--empty year in mccarthy_validation_2016
-You've used 35 entries,
+You've used 37 entries,
             2937 wiz_defined-function locations,
-            882 strings with 13589 characters,
-and the built_in function-call counts, 10890 in all, are:
-= -- 1048
-> -- 320
+            895 strings with 14108 characters,
+and the built_in function-call counts, 11471 in all, are:
+= -- 1102
+> -- 343
 < -- 6
-+ -- 130
-- -- 95
-* -- 892
-:= -- 1468
-add.period$ -- 54
-call.type$ -- 35
-change.case$ -- 37
++ -- 139
+- -- 102
+* -- 935
+:= -- 1547
+add.period$ -- 57
+call.type$ -- 37
+change.case$ -- 39
 chr.to.int$ -- 0
-cite$ -- 72
-duplicate$ -- 352
-empty$ -- 1212
-format.name$ -- 115
-if$ -- 2764
+cite$ -- 74
+duplicate$ -- 370
+empty$ -- 1280
+format.name$ -- 123
+if$ -- 2917
 int.to.chr$ -- 0
-int.to.str$ -- 35
-missing$ -- 27
-newline$ -- 156
-num.names$ -- 34
-pop$ -- 248
+int.to.str$ -- 37
+missing$ -- 30
+newline$ -- 164
+num.names$ -- 36
+pop$ -- 263
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 623
+skip$ -- 659
 stack$ -- 0
-substring$ -- 572
-swap$ -- 108
+substring$ -- 587
+swap$ -- 112
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 37
-while$ -- 82
-width$ -- 37
-write$ -- 324
-(There was 1 error message)
+while$ -- 86
+width$ -- 39
+write$ -- 343
+(There were 6 error messages)
