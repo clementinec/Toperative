@@ -15,6 +15,10 @@ Repeated entry---line 1224 of file top.bib
  : @article{peng_using_2018
  :                         ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 1359 of file top.bib
+ : @article{bortolini_analysis_2019
+ :                                 ,
+I'm skipping whatever remains of this entry
 Warning--entry type for "choi_cobi:_2010" isn't style-file defined
 --line 1514 of file top.bib
 Warning--entry type for "ansi/ashrae_standard_2017" isn't style-file defined
@@ -70,46 +74,48 @@ Warning--empty year in kingma_energy_2015
 Warning--empty journal in wang_individual_2018
 Warning--empty year in wang_individual_2018
 Warning--empty institution in standardization_iso7726_2001
+Warning--empty journal in bortolini_analysis_2019
+Warning--empty year in bortolini_analysis_2019
 Warning--empty year in mccarthy_validation_2016
-You've used 37 entries,
+You've used 38 entries,
             2937 wiz_defined-function locations,
-            895 strings with 14108 characters,
-and the built_in function-call counts, 11471 in all, are:
-= -- 1102
-> -- 343
+            901 strings with 14348 characters,
+and the built_in function-call counts, 11790 in all, are:
+= -- 1136
+> -- 350
 < -- 6
-+ -- 139
-- -- 102
-* -- 935
-:= -- 1547
-add.period$ -- 57
-call.type$ -- 37
-change.case$ -- 39
++ -- 142
+- -- 104
+* -- 968
+:= -- 1589
+add.period$ -- 59
+call.type$ -- 38
+change.case$ -- 40
 chr.to.int$ -- 0
-cite$ -- 74
-duplicate$ -- 370
-empty$ -- 1280
-format.name$ -- 123
-if$ -- 2917
+cite$ -- 77
+duplicate$ -- 380
+empty$ -- 1314
+format.name$ -- 126
+if$ -- 2996
 int.to.chr$ -- 0
-int.to.str$ -- 37
-missing$ -- 30
-newline$ -- 164
-num.names$ -- 36
-pop$ -- 263
+int.to.str$ -- 38
+missing$ -- 31
+newline$ -- 169
+num.names$ -- 37
+pop$ -- 270
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 659
+skip$ -- 674
 stack$ -- 0
-substring$ -- 587
-swap$ -- 112
+substring$ -- 603
+swap$ -- 115
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 37
-while$ -- 86
-width$ -- 39
-write$ -- 343
-(There were 6 error messages)
+warning$ -- 39
+while$ -- 89
+width$ -- 40
+write$ -- 353
+(There were 7 error messages)

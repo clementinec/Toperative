@@ -264,6 +264,15 @@ E.~Arens, T.~Hoyt, X.~Zhou, L.~Huang, H.~Zhang, S.~Schiavon,
   {\path{doi:10.1016/j.buildenv.2014.09.004}}.
 \newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0360132314002960}
 
+\bibitem{bortolini_analysis_2019}
+R.~Bortolini, N.~Forcada,
+  \href{https://doi.org/10.1080/09613218.2019.1609291}{Analysis of building
+  maintenance requests using a text mining approach: building services
+  evaluation} 0~(0)  1--11.
+\newblock \href {http://dx.doi.org/10.1080/09613218.2019.1609291}
+  {\path{doi:10.1080/09613218.2019.1609291}}.
+\newline\urlprefix\url{https://doi.org/10.1080/09613218.2019.1609291}
+
 \bibitem{mccarthy_validation_2016}
 C.~{McCarthy}, N.~Pradhan, C.~Redpath, A.~Adler, Validation of the empatica e4
   wristband, in: 2016 {IEEE} {EMBS} International Student Conference ({ISC}),

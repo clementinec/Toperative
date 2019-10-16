@@ -1,30 +1,29 @@
-% !TEX root = all.tex
-\subsubsection{Mean Radiant Temperature}
+% !TEX root = all.tex    
     Defined as the temperature of a homogeneous sphere that exchanges the same amount of heat as the actual surrounding with the human body, mean radiant temperature is arguably the most problematic environmental parameter within both the indoor and outdoor environment \cite{kantor_most_2011}. Its definition is very easy to follow but difficult to compute, particularly due to the challenges of quantifying the view factors betwen the human body and the surrounding environments. In the meantime, mean radiant temperatures are required to calculate thermal comfort and heat stress indices such as the UTCI(Jendritzky, 2012), PT (Staiger, 2012), PET (Hoppe,1999) as well as PMV \cite{fanger_calculation_1967}. 
 
     Recent expansions of its definition to include the influence of the sun also add up to the challenge, as the mean radiant temperature now has two subsets with respect to the wavelength of the incoming radiation: longwave and shortwave\cite{ansi/ashrae_standard_2017}. Partially due to these inherent complexity of the mean radiant temperature, it is one of the most abstracted environmental parameter of all the environmental parameters. These simplifications are shared among existing standards (such as ISO 7726 \cite{standardization_iso7726_2001} and ASHRAE Standard 55 \cite{ansi/ashrae_standard_2017}) with both literal definitions and measurement techniques that are underlined with various simplifications. 
-\subsubsection{One MRT in one room}
-    %Standards - 7726 and 55
+    \subsubsection{One MRT in one room}
+        %Standards - 7726 and 55
     The first simplification for the mean radiant temperature that it is a room-specific variable. This simplification is very common among the existing literature and standards such as the ISO 7726\cite{standardization_iso7726_2001} and ASHRAE Standard 55. Within the ISO Standard, the thermal comfort ergonomics and its measurement was meant to be the focus. Despite acknowledging the  Standard 55 - 2017 from ASHRAE provided similar guidelines where the literal definitions of mean radiant temperature and the relationship between the long wave and shortwave radiations. 
 
     %Device-specific? Another layer of how MRT is understood.
-            Problems in under MRT as a concept: difficulty to interpret Iterations attempting to simplify MRT: ISO, surface averaged, etc. Causes problems in measuring MRTs.
+    Problems in under MRT as a concept: difficulty to interpret Iterations attempting to simplify MRT: ISO, surface averaged, etc. Causes problems in measuring MRTs.
 
     %Fundamental difficulties of calclating the view factors? Direction of the human body? clothing surfaces, emissivity, etc.?
-            Measurement protocols of MRT and IEQ (check PoE protocols).
+    Measurement protocols of MRT and IEQ (check PoE protocols).
     %Simulation methods when obtaining MRT（CBE MRT tool)
-    Existing tools that evaluates the spatial variation of MRTs are also very rare. On the simulation side, the most common building simulation engines such as EnergyPlus \cite{energyplus_engineering_2013} do account for the temperature variations and calculate the respective view factors, but still remains to assess the mean radiant temperature as a single node inside a specific thermal zone despite accounting for the surrounding surface temperatures and their respective view factors. More recently, the Center for the Built Environment published a Spatial Thermal Comfort Tool \cite{arens_modeling_2015} that focuses on the spatial resolution of mean radiant temperature, which calculates both the spatial MRT and the corresponding PMV assuming constant inputs from the other five parameters.  
-    
-            The relationship between MRTs and the resulting PMVs have also been a subject of interests for many studies. 
-\subsubsection{Air == MRT}
-    Aside from assuming that mean radiant temperatures can be treated as a homogeneous parameter for an indoor environment, another very common simplification is to consider mean radiant temperature the equivalent of air temperature\cite{kantor_most_2011,}(Langer, 2013; matzarakis 2008). 
-            Cases where this assumption might be true.
+    Existing tools that evaluates the spatial variation of MRTs are also very rare. On the simulation side, the most common building simulation engines such as EnergyPlus \cite{energyplus_engineering_2013} do account for the temperature variations and calculate the respective view factors, but still remains to assess the mean radiant temperature as a single node inside a specific thermal zone despite accounting for the surrounding surface temperatures and their respective view factors. More recently, the Center for the Built Environment published a Spatial Thermal Comfort Tool \cite{arens_modeling_2015} that focuses on the spatial resolution of mean radiant temperature, which calculates both the spatial MRT and the corresponding PMV assuming constant inputs from the other five parameters ($T_a, v_a, RH, clo, M$).  
+        
+    The relationship between MRTs and the resulting PMVs have also been a subject of interests for many studies. 
+\subsubsection{Air temperature and MRT}
+        Aside from assuming that mean radiant temperatures can be treated as a homogeneous parameter for an indoor environment, another very common simplification is to consider mean radiant temperature the equivalent of air temperature\cite{kantor_most_2011,}(Langer, 2013; matzarakis 2008). 
+                Cases where this assumption might be true.
             Scenarios where Air IS NOT MRT needs to be better recognized:
             Radiant systems
             Shortwave radiation through huge fenestration systems
             Larger view-factors of adjacent cold/hot surface areas: ocean/river
 \subsubsection{Simplified RH}
-            Maybe briefly mention how we are suggesting we have already kept HR in check?
-            Complexity in creating two-objective systems? Price?
-\subsection{Other sensed data}
-    A good(?) question is whether we want to keep the structure of the paper - or add more stuffs. There's the performance gap hat should go in somewhere, and problem of the two-stage simplification is that it's not super clear yet. How do you simplify a group into a person, that part is not clear enough. Or is it? In 3-1 and 3-2?
+        Maybe briefly mention how we are suggesting we have already kept HR in check?
+        Complexity in creating two-objective systems? Price?
+% \subsection{Other sensed data}
+%     A good(?) question is whether we want to keep the structure of the paper - or add more stuffs. There's the performance gap hat should go in somewhere, and problem of the two-stage simplification is that it's not super clear yet. How do you simplify a group into a person, that part is not clear enough. Or is it? In 3-1 and 3-2?
