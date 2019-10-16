@@ -1,15 +1,18 @@
 % !TEX root = main.tex
 \subsubsection{Mean Radiant Temperature}
     Defined as the temperature of a homogeneous sphere that exchanges the same amount of heat as the actual surrounding with the human body, mean radiant temperature is arguably the most problematic environmental parameter within both the indoor and outdoor environment \cite{kantor_most_2011}. Its definition is very easy to follow but difficult to compute, particularly due to the challenges of quantifying the view factors betwen the human body and the surrounding environments.
-    Recent expansions of its definition to include the influence of the sun also add up to the challenge, as the mean radiant temperature now has two subsets with respect to the wavelength of the incoming radiation: longwave and shortwave\cite{ansi/ashrae_standard_2017}. Partially due to these inherent complexity of the mean radiant temperature, it is one of the most abstracted environmental parameter of all the environmental parameters.
 
-    The first and probably foremost simplification for the mean radiant temperature is that mean radiant temperature is a room-specific variable. This simplification is very wide-spread among the existing literature and standards such as the ISO 7726\cite{standardization_iso7726_2001}, where the ergonomics of the thermal environments and how it should be measured is the main focus.  
+    Recent expansions of its definition to include the influence of the sun also add up to the challenge, as the mean radiant temperature now has two subsets with respect to the wavelength of the incoming radiation: longwave and shortwave\cite{ansi/ashrae_standard_2017}. Partially due to these inherent complexity of the mean radiant temperature, it is one of the most abstracted environmental parameter of all the environmental parameters. These simplifications are shared among existing standards (such as ISO 7726 \cite{standardization_iso7726_2001} and ASHRAE Standard 55 \cite{ansi/ashrae_standard_2017}) with both literal definitions and measurement techniques that are underlined with various simplifications. 
+\subsubsection{One MRT in one room}
+    The first simplification for the mean radiant temperature that it is a room-specific variable. This simplification is very common among the existing literature and standards such as the ISO 7726\cite{standardization_iso7726_2001}, where the ergonomics of the thermal environments and how it should be measured is the main focus. Standard 55 - 2017 from ASHRAE provided similar guidelines where the literal definitions of mean radiant temperature and the relationship between the long wave and shortwave radiations. 
 
             Problems in under MRT as a concept: difficulty to interpret Iterations attempting to simplify MRT: ISO, surface averaged, etc. Causes problems in measuring MRTs.
-\subsubsection{One MRT in one room}
+
             Measurement protocols of MRT and IEQ (check PoE protocols).
             Simulation methods when obtaining MRT
+            The relationship between MRTs and the resulting PMVs have also been a subject of interests for many studies. 
 \subsubsection{Air == MRT}
+    Aside from assuming that mean radiant temperatures can be treated as a homogeneous parameter for an indoor environment, another very common simplification is to consider mean radiant temperature the equivalent of air temperature\cite{kantor_most_2011,}(Langer, 2013; matzarakis 2008). 
             Cases where this assumption might be true.
             Scenarios where Air IS NOT MRT needs to be better recognized:
             Radiant systems
