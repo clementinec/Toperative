@@ -5,14 +5,28 @@ The first and foremost simplification that we observe in the existing models of 
 Fanger's research back in the 1970s were among the first to suggest that occupants can be represented by a single hypothetical occupant\cite{fanger_thermal_1970}. Based on his own deterministic thermoregulation-based model that calculates the absolute state of thermal comfort devleoped in 1967\cite{fanger_calculation_1967}, his dissertation asserts a calculated PMV within the range of -0.5 and +0.5 is sufficient to be representative of the entire population of any occupant group. Using experimental results collected from 1,394 college students, Fanger concluded that demographic variations among the occupants are not significant enough to affect the thermal comfort conditions. Although there are many further research suggesting otherwise\cite{kingma_energy_2015,wang_individual_2018}, the simplification of the occupants into a single occupant gradually became mainstream\cite{ansi/ashrae_standard_2017}.
 
 
-\subsubsection{Outputs from the occupants}
+\subsubsection{Physiological Feedback - Outputs from the occupants}
+	Most of the popular thermal comfort metrics relies on thermoregulation models of the human body - which is a subject well-studied prior to the proposition of the PMV/PPD model\cite{fanger_thermal_1972}. From the physics of the microclimate, measurement and models of the human heat balance and their relationship to thermal comfort, research that supports proper characterization of the human body were widely available as early as the 1980s, and were systematically organized into series of publications(Cena, 1981). 
+
+	Actual implementation of these models turned out to be much more complicated than what the literature outlined. Nishi outlined the heat balance of the human body needs to have the radiation, convection, evaporation and conduction between the skin surface with the thermal environment. To do so, Nishi claimed that it is necessary to monitor physiological variables including the skin temperature, skin wettedness, mean body temperature, metabolic energy consumption and the rate of external work(Gagge and Nishi, 1977). Together with the air temperature and water vapor pressure, Gagge and Nishi demonstrated that these seven input parameters are necessary to model the heat balance of the occupants. Unlike the environmental parameters, the physiological parameters are much more challenging to measure and monitor.
+
+	Skin temperature
+	Skin temperature of the human body varies significantly across different parts of the body \cite{choi_cobi:_2010}, and has been correlated with triggering different thermal responses in some of the latest studies. Its measurement has also transformed from attempting to capture the full temperature distribution through thermography (Clark, mullan and pugh, 1977) to strapping skin temperature sensor to the wrist of the occupants \cite{choi_investigation_2017,liu_personal_2019} as well as direct indicator of occupant thermal comfort. However, the wrist temperature sensors could have limited accuracies \cite{mccarthy_validation_2016} and will require prolonged calibration among larger groups of occupants. This has not hindered some more recent studies of creating prototypes that takes multiple skin temperature readings on the wrist. Sim et al., for example, developed a wrist band that contains four temperature sensors, measuring the radial artery, ulnar artery, upper wrista dn the fingertip temperature, which appeared to be better correlated to the thermal sensation of the occupants.
+
+	Skin wettedness is much less investigated among the existing models. Per its definition, skin wettedness is the proportion of the total skin surface area of the body covered with sweat. While most research regards the skin wettedness as a process variable that can be calculated from water vapor pressure\cite{doherty_evaluation_1988}, some other research also linked the skin wettedness to clothing factor, i.e. higher clothing level could induce higher vapor resistance and therefore higher skin wettedness. 
+
+	Mean body temperature
+
+	Metabolic energy consumption
+
+	rate of external work
         Physiological responses - why aren't they mesured?
         State of art
         Challenges in directly measuring physiological feedback of the human body
-        Another form of output from the occupants, the physiological signals from the occupants 
-        Challenges for Using actual comfort votes as control feedback signal
+	Physiological signals from the occupants...?
+	    Challenges for Using actual comfort votes as control feedback signal
 
-\subsubsection{Inputs from the occupants}
-	Inputs from 
+\subsubsection{Individual differences - Inputs from the occupants}
+	Regarding the modeling of the actual occupants in an indoor environment, it is often necessary to go through a two-stage abstraction of the occupants, wherein the occupants first became a hypothetical and synthetic person, and then becomes a specific environmental parameter.  as researchers claim the male/female or age-based variations of thermal comfort is relatively small. 
 	The first and perhaps the largest simplification among occupants is the metabolic rate. Following Fanger's proposition in 1967 \cite{fanger_calculation_1967}, the metabolic rate of the occupants has been assumed to be 58.2$W/m^2$, or 1 MET in most of the follow-up literatures and regulations, such as the ASHRAE Standard 55\cite{ashrae_ansi/ashrae_2013} and ISO 7730\cite{iso_iso_2005}. 
         Metabolic rate, clothing factor, age, build and sex are all ignored in conventional comfort modelling, where a middle-aged, medium-built hypothetical man is considered.
