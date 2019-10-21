@@ -210,6 +210,15 @@ J.~van Hoof,
   {\path{doi:10.1111/j.1600-0668.2007.00516.x}}.
 \newline\urlprefix\url{https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-0668.2007.00516.x}
 
+\bibitem{iso_iso_2005}
+ISO,
+  \href{https://www.iso.org/obp/ui/#iso:std:iso:7730:ed-3:v1:en}{{ISO} 7730:2005(en),
+  {Ergonomics} of the thermal environment — {Analytical} determination and
+  interpretation of thermal comfort using calculation of the {PMV} and {PPD}
+  indices and local thermal comfort criteria}, Tech. rep., International
+  Standard Organization (2005).
+\newline\urlprefix\url{https://www.iso.org/obp/ui/#iso:std:iso:7730:ed-3:v1:en}
+
 \bibitem{kingma_energy_2015}
 B.~Kingma, W.~van Marken~Lichtenbelt,
   \href{https://www.nature.com/articles/nclimate2741}{Energy consumption in
@@ -226,14 +235,73 @@ Z.~Wang, R.~de~Dear, M.~Luo, B.~Lin, Y.~He, A.~Ghahramani, Y.~Zhu,
   {\path{doi:10.1016/j.buildenv.2018.04.040}}.
 \newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132318302518}
 
-\bibitem{iso_iso_2005}
-ISO,
-  \href{https://www.iso.org/obp/ui/#iso:std:iso:7730:ed-3:v1:en}{{ISO} 7730:2005(en),
-  {Ergonomics} of the thermal environment — {Analytical} determination and
-  interpretation of thermal comfort using calculation of the {PMV} and {PPD}
-  indices and local thermal comfort criteria}, Tech. rep., International
-  Standard Organization (2005).
-\newline\urlprefix\url{https://www.iso.org/obp/ui/#iso:std:iso:7730:ed-3:v1:en}
+\bibitem{fanger_thermal_1972}
+P.~O. Fanger, \href{https://catalog.hathitrust.org/Record/001627231}{Thermal
+  comfort: analysis and applications in environmental engineering},
+  McGraw-Hill, New York, 1972.
+\newline\urlprefix\url{https://catalog.hathitrust.org/Record/001627231}
+
+\bibitem{choi_cobi:_2010}
+J.~H. Choi, {CoBi}: Bio-sensing building mechanical system controls for
+  sustainably enhancing individual thermal comfort.
+
+\bibitem{choi_investigation_2017}
+J.-H. Choi, D.~Yeom,
+  \href{http://www.sciencedirect.com/science/article/pii/S0378778817304401}{Investigation
+  of the relationships between thermal sensations of local body areas and the
+  whole body in an indoor built environment} 149  204--215.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2017.05.062}
+  {\path{doi:10.1016/j.enbuild.2017.05.062}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0378778817304401}
+
+\bibitem{liu_personal_2019}
+S.~Liu, S.~Schiavon, H.~P. Das, M.~Jin, C.~J. Spanos,
+  \href{http://www.sciencedirect.com/science/article/pii/S0360132319304913}{Personal
+  thermal comfort models with wearable sensors} 162  106281.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2019.106281}
+  {\path{doi:10.1016/j.buildenv.2019.106281}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132319304913}
+
+\bibitem{mccarthy_validation_2016}
+C.~{McCarthy}, N.~Pradhan, C.~Redpath, A.~Adler, Validation of the empatica e4
+  wristband, in: 2016 {IEEE} {EMBS} International Student Conference ({ISC}),
+  pp. 1--4.
+\newblock \href {http://dx.doi.org/10.1109/EMBSISC.2016.7508621}
+  {\path{doi:10.1109/EMBSISC.2016.7508621}}.
+
+\bibitem{wang_observations_2007}
+D.~Wang, H.~Zhang, E.~Arens, C.~Huizenga,
+  \href{http://www.sciencedirect.com/science/article/pii/S0360132306003647}{Observations
+  of upper-extremity skin temperature and corresponding overall-body thermal
+  sensations and comfort} 42~(12)  3933--3943.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2006.06.035}
+  {\path{doi:10.1016/j.buildenv.2006.06.035}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132306003647}
+
+\bibitem{mcintyre_subjective_1972}
+D.~A. McIntyre, I.~D. Griffiths,
+  \href{http://www.sciencedirect.com/science/article/pii/0013935172900485}{Subjective
+  response to radiant and convective environments}, Environmental Research
+  5~(4) (1972) 471--482.
+\newblock \href {http://dx.doi.org/10.1016/0013-9351(72)90048-5}
+  {\path{doi:10.1016/0013-9351(72)90048-5}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/0013935172900485}
+
+\bibitem{doherty_evaluation_1988}
+T.~Doherty, E.~A. Arens, Evaluation of the physiological bases of thermal
+  comfort models  16.
+
+\bibitem{havenith_personal_2002}
+G.~Havenith, I.~Holmér, K.~Parsons,
+  \href{http://lup.lub.lu.se/record/710197}{Personal factors in thermal comfort
+  assessment: clothing properties and metabolic heat production} 34~(6)
+  581--591.
+\newline\urlprefix\url{http://lup.lub.lu.se/record/710197}
+
+\bibitem{shapiro_environmental_1984}
+Y.~Shapiro, Y.~Epstein, Environmental physiology and indoor
+  climate—thermoregulation and thermal comfort, Energy and buildings 7~(1)
+  (1984) 29--34.
 
 \bibitem{kantor_most_2011}
 N.~Kántor, J.~Unger,
@@ -264,6 +332,15 @@ E.~Arens, T.~Hoyt, X.~Zhou, L.~Huang, H.~Zhang, S.~Schiavon,
   {\path{doi:10.1016/j.buildenv.2014.09.004}}.
 \newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0360132314002960}
 
+\bibitem{park_comprehensive_2018}
+J.~Y. Park, Z.~Nagy,
+  \href{http://www.sciencedirect.com/science/article/pii/S1364032117313655}{Comprehensive
+  analysis of the relationship between thermal comfort and building control
+  research - a data-driven literature review} 82  2664--2679.
+\newblock \href {http://dx.doi.org/10.1016/j.rser.2017.09.102}
+  {\path{doi:10.1016/j.rser.2017.09.102}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S1364032117313655}
+
 \bibitem{bortolini_analysis_2019}
 R.~Bortolini, N.~Forcada,
   \href{https://doi.org/10.1080/09613218.2019.1609291}{Analysis of building
@@ -272,16 +349,5 @@ R.~Bortolini, N.~Forcada,
 \newblock \href {http://dx.doi.org/10.1080/09613218.2019.1609291}
   {\path{doi:10.1080/09613218.2019.1609291}}.
 \newline\urlprefix\url{https://doi.org/10.1080/09613218.2019.1609291}
-
-\bibitem{mccarthy_validation_2016}
-C.~{McCarthy}, N.~Pradhan, C.~Redpath, A.~Adler, Validation of the empatica e4
-  wristband, in: 2016 {IEEE} {EMBS} International Student Conference ({ISC}),
-  pp. 1--4.
-\newblock \href {http://dx.doi.org/10.1109/EMBSISC.2016.7508621}
-  {\path{doi:10.1109/EMBSISC.2016.7508621}}.
-
-\bibitem{choi_cobi:_2010}
-J.~H. Choi, {CoBi}: Bio-sensing building mechanical system controls for
-  sustainably enhancing individual thermal comfort.
 
 \end{thebibliography}

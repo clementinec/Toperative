@@ -16,7 +16,7 @@
         
     The relationship between MRTs and the resulting PMVs have also been a subject of interests for many studies. 
 \subsubsection{Air temperature and MRT}
-        Aside from assuming that mean radiant temperatures can be treated as a homogeneous parameter for an indoor environment, another very common simplification is to consider mean radiant temperature the equivalent of air temperature\cite{kantor_most_2011,}(Langer, 2013; matzarakis 2008). 
+        Aside from assuming that mean radiant temperatures can be treated as a homogeneous parameter for an indoor environment, another very common simplification is to consider mean radiant temperature the equivalent of air temperature\cite{kantor_most_2011}(Langer, 2013; matzarakis 2008). 
                 Cases where this assumption might be true.
             Scenarios where Air IS NOT MRT needs to be better recognized:
             Radiant systems
@@ -27,3 +27,11 @@
         Complexity in creating two-objective systems? Price?
 % \subsection{Other sensed data}
 %     A good(?) question is whether we want to keep the structure of the paper - or add more stuffs. There's the performance gap hat should go in somewhere, and problem of the two-stage simplification is that it's not super clear yet. How do you simplify a group into a person, that part is not clear enough. Or is it? In 3-1 and 3-2?
+
+\subsection{Review of Recent Literature}
+    To better understand how are these simplifications and assumptions affecting the status-quo research, we have also conducted a data-driven literature review, where we focus on finding the actual metrics measured in thermal comfort studies conducted since 2000 to 2020, as was identified by Park \& Nagy \cite{park_comprehensive_2018} to be relevant period of thermal comfort research. The challenge of manually reviewing the thermal comfort research that has been published over the last 20 years, we leveraged the free academic search engine demensions.ai to collect the bibliographical data including keywords, abstracts and citations and export them to be analyzed with TextBlob with Python after initial processing in VOSViewer. We selected dimensions.ai over other portals since it has a few key strengths over the more common databases like Google Scholar and Web of Science, as it contains not only more expanded journal publication records, but also grants, patents and policy documents. Using its dedicated API, more explicit requests for publication records are also possible. 
+
+    %Method, WoS, Journal, data collection
+    To collect the publication records for the purpose of this study, we used the search term \textit{"thermal comfort"} and \textit{"buildings"} to identify the whole pool of relevant research published between 2000 and 2020. The classification terms for the full literature dataset are respectively the six components contributing to thermal comfort are then used respectively \textit{"air temperature"}, \textit{"mean radiant temperature"}, \textit{"air velocity"}, \textit{"relative humidity"}, \textit{"clothing factor"} or \textit{"metabolic rate"} - as identified by Fanger in 1967\cite{fanger_calculation_1967}. 
+
+    As a result, we identified 44,532 journal publications from the Dimensions engine of papers published between 2000 and 2010. We downloaded the metadata of the publication, including the title, abstract, author, citation, publicatin year for further analysis. This was collected between 586 journals, among which the most cited remains to be \textit{Building and Environment} and \textit{Energy and Buildings}, which was consistent with Park and Nagy's finding\cite{park_comprehensive_2018}. 
