@@ -210,6 +210,14 @@ J.~van Hoof,
   {\path{doi:10.1111/j.1600-0668.2007.00516.x}}.
 \newline\urlprefix\url{https://onlinelibrary.wiley.com/doi/full/10.1111/j.1600-0668.2007.00516.x}
 
+\bibitem{auffenberg_personalised_2015}
+F.~Auffenberg, S.~Stein, A.~Rogers,
+  \href{http://dl.acm.org/citation.cfm?id=2832581.2832605}{A personalised
+  thermal comfort model using a bayesian network}, in: Proceedings of the 24th
+  International Conference on Artificial Intelligence, {IJCAI}'15, {AAAI}
+  Press, pp. 2547--2553, event-place: Buenos Aires, Argentina.
+\newline\urlprefix\url{http://dl.acm.org/citation.cfm?id=2832581.2832605}
+
 \bibitem{iso_iso_2005}
 ISO,
   \href{https://www.iso.org/obp/ui/#iso:std:iso:7730:ed-3:v1:en}{{ISO} 7730:2005(en),
@@ -318,6 +326,39 @@ I.~O.~f. Standardization, {ISO}7726 {Ergonomics} of the thermal environment.
   {Instruments} for measuring physical quantities..pdf, Tech. Rep. ICS 13.180
   (2001).
 
+\bibitem{degreef_simplified_1998}
+J.~M. DeGreef, K.~S. Chapman,
+  \href{https://search.proquest.com/docview/192625875/citation/326264D8A9E740A3PQ/1}{Simplified
+  thermal comfort evaluation of {MRT} gradients and power consumption predicted
+  with the {BCAP} methodology}, ASHRAE Transactions; Atlanta 104 (1998) 1090.
+\newline\urlprefix\url{https://search.proquest.com/docview/192625875/citation/326264D8A9E740A3PQ/1}
+
+\bibitem{graves_globe_1974}
+K.~W. Graves,
+  \href{http://oeh.tandfonline.com/doi/abs/10.1080/0002889748507003}{Globe
+  {Thermometer} {Evaluation}}, American Industrial Hygiene Association Journal
+  35~(1) (1974) 30--40.
+\newblock \href {http://dx.doi.org/10.1080/0002889748507003}
+  {\path{doi:10.1080/0002889748507003}}.
+\newline\urlprefix\url{http://oeh.tandfonline.com/doi/abs/10.1080/0002889748507003}
+
+\bibitem{thorsson_different_2007}
+S.~Thorsson, F.~Lindberg, I.~Eliasson, B.~Holmer,
+  \href{http://onlinelibrary.wiley.com/doi/10.1002/joc.1537/abstract}{Different
+  methods for estimating the mean radiant temperature in an outdoor urban
+  setting}, International Journal of Climatology 27~(14) (2007) 1983--1993.
+\newblock \href {http://dx.doi.org/10.1002/joc.1537}
+  {\path{doi:10.1002/joc.1537}}.
+\newline\urlprefix\url{http://onlinelibrary.wiley.com/doi/10.1002/joc.1537/abstract}
+
+\bibitem{degreef_calculation_2017}
+J.~M. DeGreef, K.~S. Chapman,
+  \href{https://www.nist.gov/publications/calculation-mean-radiant-temperature-directly-using-radiant-intensities}{Calculation
+  of the {Mean} {Radiant} {Temperature} {Directly} {Using} {Radiant}
+  {Intensities}}, ASHRAE Transactions\href {http://dx.doi.org/860796}
+  {\path{doi:860796}}.
+\newline\urlprefix\url{https://www.nist.gov/publications/calculation-mean-radiant-temperature-directly-using-radiant-intensities}
+
 \bibitem{energyplus_engineering_2013}
 EnergyPlus, Engineering {Reference}, THE BOARD OF TRUSTEES OF THE UNIVERSITY OF
   ILLINOIS AND THE REGENTS OF THE UNIVERSITY OF CALIFORNIA THROUGH THE ERNEST
@@ -331,6 +372,40 @@ E.~Arens, T.~Hoyt, X.~Zhou, L.~Huang, H.~Zhang, S.~Schiavon,
 \newblock \href {http://dx.doi.org/10.1016/j.buildenv.2014.09.004}
   {\path{doi:10.1016/j.buildenv.2014.09.004}}.
 \newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0360132314002960}
+
+\bibitem{middel_sky_2017}
+A.~Middel, J.~Lukasczyk, R.~Maciejewski, Sky {View} {Factors} from {Synthetic}
+  {Fisheye} {Photos} for {Thermal} {Comfort} {Routing}—{A} {Case} {Study} in
+  {Phoenix}, {Arizona}, Urban Planning 2~(1) (2017) 19.
+\newblock \href {http://dx.doi.org/10.17645/up.v2i1.855}
+  {\path{doi:10.17645/up.v2i1.855}}.
+
+\bibitem{thorsson_thermal_2007}
+S.~Thorsson, T.~Honjo, F.~Lindberg, I.~Eliasson, E.-M. Lim,
+  \href{https://doi.org/10.1177/0013916506294937}{Thermal {Comfort} and
+  {Outdoor} {Activity} in {Japanese} {Urban} {Public} {Places}}, Environment
+  and Behavior 39~(5) (2007) 660--684.
+\newblock \href {http://dx.doi.org/10.1177/0013916506294937}
+  {\path{doi:10.1177/0013916506294937}}.
+\newline\urlprefix\url{https://doi.org/10.1177/0013916506294937}
+
+\bibitem{arens_modeling_2015-1}
+E.~Arens, T.~Hoyt, X.~Zhou, L.~Huang, H.~Zhang, S.~Schiavon,
+  \href{https://escholarship.org/uc/item/89m1h2dg}{Modeling the comfort effects
+  of short-wave solar radiation indoors - {eScholarship}} 88 (2015) 3--9.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2014.09.004}
+  {\path{doi:10.1016/j.buildenv.2014.09.004}}.
+\newline\urlprefix\url{https://escholarship.org/uc/item/89m1h2dg}
+
+\bibitem{marino_effect_2017}
+C.~Marino, A.~Nucara, M.~Pietrafesa, E.~Polimeni,
+  \href{http://www.sciencedirect.com/science/article/pii/S2352710216301243}{The
+  effect of the short wave radiation and its reflected components on the mean
+  radiant temperature: modelling and preliminary experimental results}, Journal
+  of Building Engineering 9 (2017) 42--51.
+\newblock \href {http://dx.doi.org/10.1016/j.jobe.2016.11.008}
+  {\path{doi:10.1016/j.jobe.2016.11.008}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S2352710216301243}
 
 \bibitem{park_comprehensive_2018}
 J.~Y. Park, Z.~Nagy,
@@ -349,5 +424,32 @@ R.~Bortolini, N.~Forcada,
 \newblock \href {http://dx.doi.org/10.1080/09613218.2019.1609291}
   {\path{doi:10.1080/09613218.2019.1609291}}.
 \newline\urlprefix\url{https://doi.org/10.1080/09613218.2019.1609291}
+
+\bibitem{huizenga_skin_2004}
+C.~Huizenga, H.~Zhang, E.~Arens, D.~Wang,
+  \href{http://linkinghub.elsevier.com/retrieve/pii/S0306456504001032}{Skin and
+  core temperature response to partial- and whole-body heating and cooling},
+  Journal of Thermal Biology 29~(7-8) (2004) 549--558.
+\newblock \href {http://dx.doi.org/10.1016/j.jtherbio.2004.08.024}
+  {\path{doi:10.1016/j.jtherbio.2004.08.024}}.
+\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0306456504001032}
+
+\bibitem{lucchi_applications_2018}
+E.~Lucchi,
+  \href{http://www.sciencedirect.com/science/article/pii/S1364032117314119}{Applications
+  of the infrared thermography in the energy audit of buildings: A review} 82
+  3077--3090.
+\newblock \href {http://dx.doi.org/10.1016/j.rser.2017.10.031}
+  {\path{doi:10.1016/j.rser.2017.10.031}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S1364032117314119}
+
+\bibitem{ghahramani_infrared_2016}
+A.~Ghahramani, G.~Castro, B.~Becerik-Gerber, X.~Yu,
+  \href{http://www.sciencedirect.com/science/article/pii/S0360132316303456}{Infrared
+  thermography of human face for monitoring thermoregulation performance and
+  estimating personal thermal comfort} 109  1--11.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2016.09.005}
+  {\path{doi:10.1016/j.buildenv.2016.09.005}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132316303456}
 
 \end{thebibliography}

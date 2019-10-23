@@ -69,6 +69,7 @@ Warning--empty year in humphreys_validity_2002
 Warning--empty journal in de_dear_developing_1998
 Warning--empty journal in van_hoof_forty_2008
 Warning--empty year in van_hoof_forty_2008
+Warning--empty year in auffenberg_personalised_2015
 Warning--empty journal in kingma_energy_2015
 Warning--empty year in kingma_energy_2015
 Warning--empty journal in wang_individual_2018
@@ -85,49 +86,54 @@ Warning--empty year in doherty_evaluation_1988
 Warning--empty journal in havenith_personal_2002
 Warning--empty year in havenith_personal_2002
 Warning--empty institution in standardization_iso7726_2001
+Warning--empty journal in arens_modeling_2015-1
 Warning--empty journal in park_comprehensive_2018
 Warning--empty year in park_comprehensive_2018
 Warning--empty journal in bortolini_analysis_2019
 Warning--empty year in bortolini_analysis_2019
-You've used 47 entries,
+Warning--empty journal in lucchi_applications_2018
+Warning--empty year in lucchi_applications_2018
+Warning--empty journal in ghahramani_infrared_2016
+Warning--empty year in ghahramani_infrared_2016
+You've used 59 entries,
             2937 wiz_defined-function locations,
-            958 strings with 16426 characters,
-and the built_in function-call counts, 14626 in all, are:
-= -- 1415
-> -- 428
-< -- 6
-+ -- 174
-- -- 127
-* -- 1230
-:= -- 1969
-add.period$ -- 73
-call.type$ -- 47
-change.case$ -- 48
+            1045 strings with 19749 characters,
+and the built_in function-call counts, 18846 in all, are:
+= -- 1856
+> -- 557
+< -- 7
++ -- 225
+- -- 166
+* -- 1618
+:= -- 2545
+add.period$ -- 94
+call.type$ -- 59
+change.case$ -- 61
 chr.to.int$ -- 0
-cite$ -- 98
-duplicate$ -- 465
-empty$ -- 1627
-format.name$ -- 157
-if$ -- 3704
+cite$ -- 116
+duplicate$ -- 595
+empty$ -- 2067
+format.name$ -- 206
+if$ -- 4767
 int.to.chr$ -- 0
-int.to.str$ -- 47
-missing$ -- 41
-newline$ -- 208
-num.names$ -- 46
-pop$ -- 338
+int.to.str$ -- 59
+missing$ -- 53
+newline$ -- 264
+num.names$ -- 58
+pop$ -- 407
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 808
+skip$ -- 1030
 stack$ -- 0
-substring$ -- 783
-swap$ -- 134
-text.length$ -- 6
+substring$ -- 1022
+swap$ -- 184
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 51
-while$ -- 112
-width$ -- 49
-write$ -- 434
+warning$ -- 57
+while$ -- 145
+width$ -- 61
+write$ -- 559
 (There were 7 error messages)
