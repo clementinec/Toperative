@@ -12,18 +12,17 @@
 \contentsline {section}{\numberline {3}Common Simplifications and Assumptions found in the equivalence of thermal comfort}{12}{section.3}
 \contentsline {subsection}{\numberline {3.1}Occupant-related Simplifications}{12}{subsection.3.1}
 \contentsline {subsubsection}{\numberline {3.1.1}Physiological Feedback - Outputs from the occupants}{13}{subsubsection.3.1.1}
-\contentsline {subsubsection}{\numberline {3.1.2}Individual differences - Inputs from the occupants}{14}{subsubsection.3.1.2}
-\contentsline {subsection}{\numberline {3.2}Environmental Parameters Simplifications}{14}{subsection.3.2}
-\contentsline {subsubsection}{\numberline {3.2.1}One MRT in one room}{14}{subsubsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.2}Air temperature and MRT}{16}{subsubsection.3.2.2}
-\contentsline {subsubsection}{\numberline {3.2.3}Simplified RH}{16}{subsubsection.3.2.3}
-\contentsline {subsection}{\numberline {3.3}Review of Recent Literature}{16}{subsection.3.3}
-\contentsline {section}{\numberline {4}Latest Efforts in addressing the absence of occupant in OCC}{17}{section.4}
-\contentsline {subsection}{\numberline {4.1}Subjective feedback}{17}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Objective measurement}{17}{subsection.4.2}
-\contentsline {subsubsection}{\numberline {4.2.1}Direct physiological parameters from wearable sensors}{18}{subsubsection.4.2.1}
-\contentsline {subsubsection}{\numberline {4.2.2}Thermal Imagery and other direct measurement techniques}{18}{subsubsection.4.2.2}
-\contentsline {subsection}{\numberline {4.3}Direct physiological feedback}{18}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Occupant-centric building control}{18}{subsection.4.4}
-\contentsline {subsection}{\numberline {4.5}Personalized thermal comfort model}{18}{subsection.4.5}
-\contentsline {section}{\numberline {5}Conclusion}{18}{section.5}
+\contentsline {subsubsection}{\numberline {3.1.2}Individual differences - Inputs from the occupants}{15}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Environmental Parameters Simplifications}{16}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}One MRT in one room}{16}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Air temperature and MRT}{18}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Simplified RH}{18}{subsubsection.3.2.3}
+\contentsline {subsection}{\numberline {3.3}Review of Recent Literature}{18}{subsection.3.3}
+\contentsline {section}{\numberline {4}Latest Efforts in addressing the absence of occupant in OCC}{19}{section.4}
+\contentsline {subsection}{\numberline {4.1}Subjective feedback}{19}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Objective measurement}{20}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Direct physiological parameters from wearable sensors}{20}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Thermal Imagery and other direct measurement techniques}{21}{subsubsection.4.2.2}
+\contentsline {subsection}{\numberline {4.3}Occupant-centric building control}{21}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Personalized thermal comfort model}{21}{subsection.4.4}
+\contentsline {section}{\numberline {5}Conclusion}{21}{section.5}

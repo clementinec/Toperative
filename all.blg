@@ -37,7 +37,6 @@ Repeated entry---line 3181 of file top.bib
  : @article{wang_individual_2018
  :                              ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for ""
 Warning--empty journal in fanger_assessment_1973
 Warning--empty year in fanger_assessment_1973
 Warning--empty journal in hoppe_different_2002
@@ -81,10 +80,34 @@ Warning--empty year in liu_personal_2019
 Warning--empty year in mccarthy_validation_2016
 Warning--empty journal in wang_observations_2007
 Warning--empty year in wang_observations_2007
+Warning--empty journal in lu_thermal_2019
+Warning--empty year in lu_thermal_2019
+Warning--empty booktitle in gagge_effective_1971
+Warning--empty year in gagge_effective_1971
+Warning--empty pages in gagge_effective_1971
 Warning--empty journal in doherty_evaluation_1988
 Warning--empty year in doherty_evaluation_1988
 Warning--empty journal in havenith_personal_2002
 Warning--empty year in havenith_personal_2002
+Warning--empty journal in akimoto_thermal_2010
+Warning--empty year in akimoto_thermal_2010
+Warning--empty year in huang_potential_2015
+Warning--empty journal in rothney_validity_2008
+Warning--empty year in rothney_validity_2008
+Warning--empty journal in mishra_actimetry_2019
+Warning--empty year in mishra_actimetry_2019
+Warning--empty journal in wilson_moving_2006
+Warning--empty year in wilson_moving_2006
+Warning--empty journal in gagge_comfort_1967
+Warning--empty year in gagge_comfort_1967
+Warning--empty journal in liu_heart_2008
+Warning--empty year in liu_heart_2008
+Warning--empty journal in gillinov_variable_2017
+Warning--empty year in gillinov_variable_2017
+Warning--empty journal in rupp_associations_2018
+Warning--empty year in rupp_associations_2018
+Warning--empty journal in maykot_assessment_2018
+Warning--empty year in maykot_assessment_2018
 Warning--empty institution in standardization_iso7726_2001
 Warning--empty journal in arens_modeling_2015-1
 Warning--empty journal in park_comprehensive_2018
@@ -95,45 +118,45 @@ Warning--empty journal in lucchi_applications_2018
 Warning--empty year in lucchi_applications_2018
 Warning--empty journal in ghahramani_infrared_2016
 Warning--empty year in ghahramani_infrared_2016
-You've used 59 entries,
+You've used 71 entries,
             2937 wiz_defined-function locations,
-            1045 strings with 19749 characters,
-and the built_in function-call counts, 18846 in all, are:
-= -- 1856
-> -- 557
-< -- 7
-+ -- 225
-- -- 166
-* -- 1618
-:= -- 2545
-add.period$ -- 94
-call.type$ -- 59
-change.case$ -- 61
+            1125 strings with 23348 characters,
+and the built_in function-call counts, 23304 in all, are:
+= -- 2288
+> -- 716
+< -- 8
++ -- 286
+- -- 215
+* -- 2058
+:= -- 3146
+add.period$ -- 117
+call.type$ -- 71
+change.case$ -- 74
 chr.to.int$ -- 0
-cite$ -- 116
-duplicate$ -- 595
-empty$ -- 2067
-format.name$ -- 206
-if$ -- 4767
+cite$ -- 152
+duplicate$ -- 729
+empty$ -- 2523
+format.name$ -- 266
+if$ -- 5855
 int.to.chr$ -- 0
-int.to.str$ -- 59
-missing$ -- 53
-newline$ -- 264
-num.names$ -- 58
-pop$ -- 407
+int.to.str$ -- 71
+missing$ -- 65
+newline$ -- 321
+num.names$ -- 70
+pop$ -- 495
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1030
+skip$ -- 1239
 stack$ -- 0
-substring$ -- 1022
-swap$ -- 184
-text.length$ -- 7
+substring$ -- 1292
+swap$ -- 227
+text.length$ -- 8
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 57
-while$ -- 145
-width$ -- 61
-write$ -- 559
+warning$ -- 81
+while$ -- 179
+width$ -- 73
+write$ -- 678
 (There were 7 error messages)

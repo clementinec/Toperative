@@ -286,6 +286,28 @@ D.~Wang, H.~Zhang, E.~Arens, C.~Huizenga,
   {\path{doi:10.1016/j.buildenv.2006.06.035}}.
 \newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132306003647}
 
+\bibitem{lu_thermal_2019}
+S.~Lu, W.~Wang, S.~Wang, E.~Cochran~Hameen,
+  \href{https://www.mdpi.com/2076-3417/9/9/1768}{Thermal comfort-based
+  personalized models with non-intrusive sensing technique in office buildings}
+  9~(9)  1768.
+\newblock \href {http://dx.doi.org/10.3390/app9091768}
+  {\path{doi:10.3390/app9091768}}.
+\newline\urlprefix\url{https://www.mdpi.com/2076-3417/9/9/1768}
+
+\bibitem{shapiro_environmental_1984}
+Y.~Shapiro, Y.~Epstein, Environmental physiology and indoor
+  climate—thermoregulation and thermal comfort, Energy and buildings 7~(1)
+  (1984) 29--34.
+
+\bibitem{gagge_effective_1971}
+A.~P. Gagge, An effective temperature scale based on a simple model of human
+  physiological regulatory response.
+
+\bibitem{doherty_evaluation_1988}
+T.~Doherty, E.~A. Arens, Evaluation of the physiological bases of thermal
+  comfort models  16.
+
 \bibitem{mcintyre_subjective_1972}
 D.~A. McIntyre, I.~D. Griffiths,
   \href{http://www.sciencedirect.com/science/article/pii/0013935172900485}{Subjective
@@ -295,10 +317,6 @@ D.~A. McIntyre, I.~D. Griffiths,
   {\path{doi:10.1016/0013-9351(72)90048-5}}.
 \newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/0013935172900485}
 
-\bibitem{doherty_evaluation_1988}
-T.~Doherty, E.~A. Arens, Evaluation of the physiological bases of thermal
-  comfort models  16.
-
 \bibitem{havenith_personal_2002}
 G.~Havenith, I.~Holmér, K.~Parsons,
   \href{http://lup.lub.lu.se/record/710197}{Personal factors in thermal comfort
@@ -306,10 +324,95 @@ G.~Havenith, I.~Holmér, K.~Parsons,
   581--591.
 \newline\urlprefix\url{http://lup.lub.lu.se/record/710197}
 
-\bibitem{shapiro_environmental_1984}
-Y.~Shapiro, Y.~Epstein, Environmental physiology and indoor
-  climate—thermoregulation and thermal comfort, Energy and buildings 7~(1)
-  (1984) 29--34.
+\bibitem{akimoto_thermal_2010}
+T.~Akimoto, S.-i. Tanabe, T.~Yanai, M.~Sasaki,
+  \href{http://www.sciencedirect.com/science/article/pii/S036013230900167X}{Thermal
+  comfort and productivity - evaluation of workplace environment in a task
+  conditioned office} 45~(1)  45--50.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2009.06.022}
+  {\path{doi:10.1016/j.buildenv.2009.06.022}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S036013230900167X}
+
+\bibitem{huang_potential_2015}
+C.-C.~J. Huang, R.~Yang, M.~W. Newman,
+  \href{http://doi.acm.org/10.1145/2750858.2805831}{The potential and
+  challenges of inferring thermal comfort at home using commodity sensors}, in:
+  Proceedings of the 2015 {ACM} International Joint Conference on Pervasive and
+  Ubiquitous Computing, {UbiComp} '15, {ACM}, pp. 1089--1100, event-place:
+  Osaka, Japan.
+\newblock \href {http://dx.doi.org/10.1145/2750858.2805831}
+  {\path{doi:10.1145/2750858.2805831}}.
+\newline\urlprefix\url{http://doi.acm.org/10.1145/2750858.2805831}
+
+\bibitem{rothney_validity_2008}
+M.~P. Rothney, E.~V. Schaefer, M.~M. Neumann, L.~Choi, K.~Y. Chen,
+  \href{https://onlinelibrary.wiley.com/doi/abs/10.1038/oby.2008.279}{Validity
+  of physical activity intensity predictions by {ActiGraph}, actical, and {RT}3
+  accelerometers} 16~(8)  1946--1952.
+\newblock \href {http://dx.doi.org/10.1038/oby.2008.279}
+  {\path{doi:10.1038/oby.2008.279}}.
+\newline\urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1038/oby.2008.279}
+
+\bibitem{mishra_actimetry_2019}
+A.~Mishra, M.~Loomans, R.~Kosonen, Actimetry for estimating occupant activity
+  levels in buildings: A step toward optimal and energy-efficient indoor
+  conditioning 8~(1)  67--71.
+\newblock \href {http://dx.doi.org/10.1109/MCE.2018.2867983}
+  {\path{doi:10.1109/MCE.2018.2867983}}.
+
+\bibitem{wilson_moving_2006}
+R.~P. Wilson, C.~R. White, F.~Quintana, L.~G. Halsey, N.~Liebsch, G.~R. Martin,
+  P.~J. Butler,
+  \href{https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2656.2006.01127.x}{Moving
+  towards acceleration for estimates of activity-specific metabolic rate in
+  free-living animals: the case of the cormorant} 75~(5)  1081--1090.
+\newblock \href {http://dx.doi.org/10.1111/j.1365-2656.2006.01127.x}
+  {\path{doi:10.1111/j.1365-2656.2006.01127.x}}.
+\newline\urlprefix\url{https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2656.2006.01127.x}
+
+\bibitem{gagge_comfort_1967}
+A.~P. Gagge, J.~A.~J. Stolwijk, J.~D. Hardy,
+  \href{http://www.sciencedirect.com/science/article/pii/0013935167900023}{Comfort
+  and thermal sensations and associated physiological responses at various
+  ambient temperatures} 1~(1)  1--20.
+\newblock \href {http://dx.doi.org/10.1016/0013-9351(67)90002-3}
+  {\path{doi:10.1016/0013-9351(67)90002-3}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/0013935167900023}
+
+\bibitem{liu_heart_2008}
+W.~Liu, Z.~Lian, Y.~Liu, \href{https://doi.org/10.1007/s00421-008-0718-6}{Heart
+  rate variability at different thermal comfort levels} 103~(3)  361--366.
+\newblock \href {http://dx.doi.org/10.1007/s00421-008-0718-6}
+  {\path{doi:10.1007/s00421-008-0718-6}}.
+\newline\urlprefix\url{https://doi.org/10.1007/s00421-008-0718-6}
+
+\bibitem{gillinov_variable_2017}
+S.~Gillinov, M.~Etiwy, R.~Wang, G.~Blackburn, D.~Phelan, A.~Gillinov,
+  P.~Houghtaling, H.~Javadikasgari, M.~Desai, \href{insights.ovid.com}{Variable
+  accuracy of wearable heart rate monitors during aerobic exercise} 49~(8)
+  1697--1703.
+\newblock \href {http://dx.doi.org/10.1249/MSS.0000000000001284}
+  {\path{doi:10.1249/MSS.0000000000001284}}.
+\newline\urlprefix\url{insights.ovid.com}
+
+\bibitem{rupp_associations_2018}
+R.~F. Rupp, J.~Kim, R.~de~Dear, E.~Ghisi,
+  \href{http://www.sciencedirect.com/science/article/pii/S0360132318301215}{Associations
+  of occupant demographics, thermal history and obesity variables with their
+  thermal comfort in air-conditioned and mixed-mode ventilation office
+  buildings} 135  1--9.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2018.02.049}
+  {\path{doi:10.1016/j.buildenv.2018.02.049}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132318301215}
+
+\bibitem{maykot_assessment_2018}
+J.~K. Maykot, R.~F. Rupp, E.~Ghisi,
+  \href{http://www.sciencedirect.com/science/article/pii/S0378778817324118}{Assessment
+  of gender on requirements for thermal comfort in office buildings located in
+  the brazilian humid subtropical climate} 158  1170--1183.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2017.11.036}
+  {\path{doi:10.1016/j.enbuild.2017.11.036}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0378778817324118}
 
 \bibitem{kantor_most_2011}
 N.~Kántor, J.~Unger,
