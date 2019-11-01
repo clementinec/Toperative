@@ -510,6 +510,38 @@ C.~Marino, A.~Nucara, M.~Pietrafesa, E.~Polimeni,
   {\path{doi:10.1016/j.jobe.2016.11.008}}.
 \newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S2352710216301243}
 
+\bibitem{chaudhuri_assuming_2016}
+T.~Chaudhuri, Y.~C. Soh, S.~Bose, L.~Xie, H.~Li, On assuming mean radiant
+  temperature equal to air temperature during {PMV}-based thermal comfort study
+  in air-conditioned buildings, in: {IECON} 2016 - 42nd Annual Conference of
+  the {IEEE} Industrial Electronics Society, pp. 7065--7070.
+\newblock \href {http://dx.doi.org/10.1109/IECON.2016.7793073}
+  {\path{doi:10.1109/IECON.2016.7793073}}.
+
+\bibitem{walikewitz_difference_2015}
+N.~Walikewitz, B.~Jänicke, M.~Langner, F.~Meier, W.~Endlicher,
+  \href{http://www.sciencedirect.com/science/article/pii/S0360132314003576}{The
+  difference between the mean radiant temperature and the air temperature
+  within indoor environments: A case study during summer conditions} 84
+  151--161.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2014.11.004}
+  {\path{doi:10.1016/j.buildenv.2014.11.004}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132314003576}
+
+\bibitem{american_society_of_heating_2013_2013}
+R.~a. A.-C.~E. American Society~of Heating, 2013 {ASHRAE} handbook., 2013,
+  oCLC: 862228017.
+
+\bibitem{dambrosio_alfano_measurement_2013}
+F.~R. d’Ambrosio Alfano, M.~Dell’Isola, B.~I. Palella, G.~Riccio, A.~Russi,
+  \href{http://www.sciencedirect.com/science/article/pii/S0360132313000498}{On
+  the measurement of the mean radiant temperature and its influence on the
+  indoor thermal environment assessment}, Building and Environment 63 (2013)
+  79--88.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2013.01.026}
+  {\path{doi:10.1016/j.buildenv.2013.01.026}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132313000498}
+
 \bibitem{park_comprehensive_2018}
 J.~Y. Park, Z.~Nagy,
   \href{http://www.sciencedirect.com/science/article/pii/S1364032117313655}{Comprehensive
@@ -536,6 +568,18 @@ C.~Huizenga, H.~Zhang, E.~Arens, D.~Wang,
 \newblock \href {http://dx.doi.org/10.1016/j.jtherbio.2004.08.024}
   {\path{doi:10.1016/j.jtherbio.2004.08.024}}.
 \newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0306456504001032}
+
+\bibitem{garg_smart_2000}
+V.~Garg, N.~K. Bansal,
+  \href{http://www.sciencedirect.com/science/article/pii/S0378778899000407}{Smart
+  occupancy sensors to reduce energy consumption} 32~(1)  81--87.
+\newblock \href {http://dx.doi.org/10.1016/S0378-7788(99)00040-7}
+  {\path{doi:10.1016/S0378-7788(99)00040-7}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0378778899000407}
+
+\bibitem{anguita_public_2013}
+D.~Anguita, A.~Ghio, L.~Oneto, X.~Parra, J.~L. Reyes-Ortiz, A public domain
+  dataset for human activity recognition using smartphones, in: {ESANN}.
 
 \bibitem{lucchi_applications_2018}
 E.~Lucchi,

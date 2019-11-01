@@ -16,13 +16,13 @@
 \contentsline {subsection}{\numberline {3.2}Environmental Parameters Simplifications}{16}{subsection.3.2}
 \contentsline {subsubsection}{\numberline {3.2.1}One MRT in one room}{16}{subsubsection.3.2.1}
 \contentsline {subsubsection}{\numberline {3.2.2}Air temperature and MRT}{18}{subsubsection.3.2.2}
-\contentsline {subsubsection}{\numberline {3.2.3}Simplified RH}{18}{subsubsection.3.2.3}
-\contentsline {subsection}{\numberline {3.3}Review of Recent Literature}{18}{subsection.3.3}
-\contentsline {section}{\numberline {4}Latest Efforts in addressing the absence of occupant in OCC}{19}{section.4}
-\contentsline {subsection}{\numberline {4.1}Subjective feedback}{19}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Objective measurement}{20}{subsection.4.2}
-\contentsline {subsubsection}{\numberline {4.2.1}Direct physiological parameters from wearable sensors}{20}{subsubsection.4.2.1}
-\contentsline {subsubsection}{\numberline {4.2.2}Thermal Imagery and other direct measurement techniques}{21}{subsubsection.4.2.2}
-\contentsline {subsection}{\numberline {4.3}Occupant-centric building control}{21}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Personalized thermal comfort model}{21}{subsection.4.4}
-\contentsline {section}{\numberline {5}Conclusion}{21}{section.5}
+\contentsline {subsubsection}{\numberline {3.2.3}Simplified RH}{19}{subsubsection.3.2.3}
+\contentsline {subsection}{\numberline {3.3}Review of Recent Literature}{19}{subsection.3.3}
+\contentsline {section}{\numberline {4}Latest Efforts in addressing the absence of occupant in OCC}{20}{section.4}
+\contentsline {subsection}{\numberline {4.1}Subjective feedback}{20}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Objective measurement}{21}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Wearable Technology and IoT sensors}{21}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Thermal Imagery and other direct measurement techniques}{22}{subsubsection.4.2.2}
+\contentsline {subsection}{\numberline {4.3}Occupant-centric building control}{22}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Personalized thermal comfort model}{22}{subsection.4.4}
+\contentsline {section}{\numberline {5}Conclusion}{22}{section.5}

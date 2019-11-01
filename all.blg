@@ -15,6 +15,10 @@ Repeated entry---line 1224 of file top.bib
  : @article{peng_using_2018
  :                         ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 1324 of file top.bib
+ : @article{garg_smart_2000
+ :                         ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 1359 of file top.bib
  : @article{bortolini_analysis_2019
  :                                 ,
@@ -37,6 +41,15 @@ Repeated entry---line 3181 of file top.bib
  : @article{wang_individual_2018
  :                              ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 5315 of file top.bib
+ : @inproceedings{chaudhuri_assuming_2016
+ :                                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7891 of file top.bib
+ : @article{walikewitz_difference_2015
+ :                                    ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for ""
 Warning--empty journal in fanger_assessment_1973
 Warning--empty year in fanger_assessment_1973
 Warning--empty journal in hoppe_different_2002
@@ -110,53 +123,61 @@ Warning--empty journal in maykot_assessment_2018
 Warning--empty year in maykot_assessment_2018
 Warning--empty institution in standardization_iso7726_2001
 Warning--empty journal in arens_modeling_2015-1
+Warning--empty year in chaudhuri_assuming_2016
+Warning--empty journal in walikewitz_difference_2015
+Warning--empty year in walikewitz_difference_2015
+Warning--empty publisher in american_society_of_heating_2013_2013
 Warning--empty journal in park_comprehensive_2018
 Warning--empty year in park_comprehensive_2018
 Warning--empty journal in bortolini_analysis_2019
 Warning--empty year in bortolini_analysis_2019
+Warning--empty journal in garg_smart_2000
+Warning--empty year in garg_smart_2000
+Warning--empty year in anguita_public_2013
+Warning--empty pages in anguita_public_2013
 Warning--empty journal in lucchi_applications_2018
 Warning--empty year in lucchi_applications_2018
 Warning--empty journal in ghahramani_infrared_2016
 Warning--empty year in ghahramani_infrared_2016
-You've used 71 entries,
+You've used 77 entries,
             2937 wiz_defined-function locations,
-            1125 strings with 23348 characters,
-and the built_in function-call counts, 23304 in all, are:
-= -- 2288
-> -- 716
-< -- 8
-+ -- 286
-- -- 215
-* -- 2058
-:= -- 3146
-add.period$ -- 117
-call.type$ -- 71
-change.case$ -- 74
+            1160 strings with 24974 characters,
+and the built_in function-call counts, 25389 in all, are:
+= -- 2482
+> -- 791
+< -- 9
++ -- 315
+- -- 238
+* -- 2225
+:= -- 3418
+add.period$ -- 127
+call.type$ -- 77
+change.case$ -- 80
 chr.to.int$ -- 0
-cite$ -- 152
-duplicate$ -- 729
-empty$ -- 2523
-format.name$ -- 266
-if$ -- 5855
+cite$ -- 166
+duplicate$ -- 800
+empty$ -- 2753
+format.name$ -- 294
+if$ -- 6386
 int.to.chr$ -- 0
-int.to.str$ -- 71
-missing$ -- 65
-newline$ -- 321
-num.names$ -- 70
-pop$ -- 495
+int.to.str$ -- 77
+missing$ -- 72
+newline$ -- 346
+num.names$ -- 76
+pop$ -- 543
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1239
+skip$ -- 1361
 stack$ -- 0
-substring$ -- 1292
-swap$ -- 227
-text.length$ -- 8
+substring$ -- 1397
+swap$ -- 250
+text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 81
-while$ -- 179
-width$ -- 73
-write$ -- 678
-(There were 7 error messages)
+warning$ -- 89
+while$ -- 194
+width$ -- 79
+write$ -- 734
+(There were 10 error messages)
