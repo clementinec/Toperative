@@ -6,23 +6,15 @@
 \contentsline {subsubsection}{\numberline {2.1.3}The adaptive comfort model}{10}{subsubsection.2.1.3}
 \contentsline {subsection}{\numberline {2.2}Outdoor}{11}{subsection.2.2}
 \contentsline {subsubsection}{\numberline {2.2.1}Non-measurable metrics}{12}{subsubsection.2.2.1}
-\contentsline {paragraph}{PET}{12}{section*.2}
-\contentsline {paragraph}{UTCI}{12}{section*.3}
 \contentsline {subsubsection}{\numberline {2.2.2}Measurable metrics}{12}{subsubsection.2.2.2}
-\contentsline {section}{\numberline {3}Common Simplifications and Assumptions found in the equivalence of thermal comfort}{12}{section.3}
-\contentsline {subsection}{\numberline {3.1}Occupant-related Simplifications}{12}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {3.1.1}Physiological Feedback - Outputs from the occupants}{13}{subsubsection.3.1.1}
-\contentsline {subsubsection}{\numberline {3.1.2}Individual differences - Inputs from the occupants}{15}{subsubsection.3.1.2}
-\contentsline {subsection}{\numberline {3.2}Environmental Parameters Simplifications}{16}{subsection.3.2}
-\contentsline {subsubsection}{\numberline {3.2.1}One MRT in one room}{16}{subsubsection.3.2.1}
-\contentsline {subsubsection}{\numberline {3.2.2}Air temperature and MRT}{18}{subsubsection.3.2.2}
-\contentsline {subsubsection}{\numberline {3.2.3}Simplified RH}{19}{subsubsection.3.2.3}
-\contentsline {subsection}{\numberline {3.3}Review of Recent Literature}{19}{subsection.3.3}
+\contentsline {section}{\numberline {3}Common Simplifications and Assumptions found in the equivalence of thermal comfort}{13}{section.3}
+\contentsline {subsection}{\numberline {3.1}Occupant-related Simplifications}{13}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Physiological Feedback - Outputs from the occupants}{14}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Individual differences - Inputs from the occupants}{16}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Environmental Parameters Simplifications}{17}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}One MRT in one room}{17}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Air temperature and MRT}{19}{subsubsection.3.2.2}
 \contentsline {section}{\numberline {4}Latest Efforts in addressing the absence of occupant in OCC}{20}{section.4}
-\contentsline {subsection}{\numberline {4.1}Subjective feedback}{20}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Objective measurement}{21}{subsection.4.2}
-\contentsline {subsubsection}{\numberline {4.2.1}Wearable Technology and IoT sensors}{21}{subsubsection.4.2.1}
-\contentsline {subsubsection}{\numberline {4.2.2}Thermal Imagery and other direct measurement techniques}{22}{subsubsection.4.2.2}
-\contentsline {subsection}{\numberline {4.3}Occupant-centric building control}{22}{subsection.4.3}
-\contentsline {subsection}{\numberline {4.4}Personalized thermal comfort model}{22}{subsection.4.4}
-\contentsline {section}{\numberline {5}Conclusion}{22}{section.5}
+\contentsline {subsection}{\numberline {4.1}Subjective feedback}{21}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Objective measurement}{22}{subsection.4.2}
+\contentsline {section}{\numberline {5}Conclusion}{23}{section.5}

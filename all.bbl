@@ -5,13 +5,6 @@
 \expandafter\ifx\csname href\endcsname\relax
   \def\href#1#2{#2} \def\path#1{#1}\fi
 
-\bibitem{bedford_globe_1934}
-T.~Bedford, C.~G. Warner,
-  \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2170907/}{The {Globe}
-  {Thermometer} in {Studies} of {Heating} and {Ventilation}}, The Journal of
-  Hygiene 34~(4) (1934) 458--473.
-\newline\urlprefix\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2170907/}
-
 \bibitem{ansi/ashrae_standard_2017}
 {ANSI/ASHRAE},
   \href{https://www.ashrae.org/technical-resources/bookstore/standard-55-thermal-environmental-conditions-for-human-occupancy}{Standard
@@ -25,8 +18,8 @@ P.~O. Fanger,
 \newline\urlprefix\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1069471/}
 
 \bibitem{h._hoppe_new_1992}
-{H. Hoppe}, A new procedure to determine the mean radiant temperature outdoors,
-  Wetter unt Leben 44 (1992) 147--151.
+{H. Hoppe}, A new procedure to determine the mean radiant temperature outdoors
+  44  147--151.
 
 \bibitem{hoppe_different_2002}
 P.~Höppe,
@@ -104,9 +97,9 @@ J.~F. Nicol, M.~A. Humphreys,
 \newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0378778802000063}
 
 \bibitem{nicol_overview_2010}
-F.~Nicol, M.~Wilson, An overview of the {European} {Standard} {EN} 15251, in:
-  proceedings of {Conference}: {Adapting} to {Change}: {New} {Thinking} on
-  {Comfort}. {Cumberland} {Lodge}, {Windsor}, {UK}, Vol. 911, 2010.
+F.~Nicol, M.~Wilson, An overview of the european standard {EN} 15251, in:
+  proceedings of Conference: Adapting to Change: New Thinking on Comfort.
+  Cumberland Lodge, Windsor, {UK}, Vol. 911.
 
 \bibitem{kim_personal_2018}
 J.~Kim, Y.~Zhou, S.~Schiavon, P.~Raftery, G.~Brager,
@@ -119,8 +112,8 @@ J.~Kim, Y.~Zhou, S.~Schiavon, P.~Raftery, G.~Brager,
 
 \bibitem{noauthor_occupational_nodate}
 \href{https://www.jstage.jst.go.jp/article/indhealth/51/1/51_2012-0165/_article}{Occupational
-  {Health} {Impacts} of {Climate} {Change}: {Current} and {Future} {ISO}
-  {Standards} for the {Assessment} of {Heat} {Stress}}.
+  health impacts of climate change: Current and future {ISO} standards for the
+  assessment of heat stress}.
 \newline\urlprefix\url{https://www.jstage.jst.go.jp/article/indhealth/51/1/51_2012-0165/_article}
 
 \bibitem{salamone_integrated_2018}
@@ -139,32 +132,18 @@ Y.~Gao, E.~Tumwesigye, B.~Cahill, K.~Menzel, Using data mining in optimisation
   International Conference on Software Engineering and Data Mining, pp.
   434--439.
 
-\bibitem{abdallah_moatassem_sensing_2017}
-{Abdallah Moatassem}, {Clevenger Caroline}, {Vu Tam}, {Nguyen Anh},
-  \href{https://ascelibrary.org/doi/abs/10.1061/9780784479827.095}{Sensing
-  occupant comfort using wearable technologies}  940--950\href
-  {http://dx.doi.org/10.1061/9780784479827.095}
-  {\path{doi:10.1061/9780784479827.095}}.
-\newline\urlprefix\url{https://ascelibrary.org/doi/abs/10.1061/9780784479827.095}
-
-\bibitem{ashrae_ansi/ashrae_2013}
-{ASHRAE}, {ANSI}/{ASHRAE} {Standard} 55-2013. {Thermal} {Environmental}
-  {Conditions} for {Human} {Occupancy} (2013).
-
 \bibitem{fanger_calculation_1967}
-P.~O. Fanger, Calculation of {Thermal} {Comfort}: {Introductiof} a {Basic}
-  {Comfort} {Equation}, ASHRAE Transactions 73.
+P.~O. Fanger, Calculation of thermal comfort: Introductiof a basic comfort
+  equation 73.
 
 \bibitem{ashrae_thermal_2003}
-{ASHRAE}, Thermal {Environmental} {Conditions} for {Human} {Occupancy} {ASHRAE}
-  {Standard} 55-1966, Tech. rep., American Society of Heating, Refrigerating
-  and Air-conditioning Engineers (May 2003).
+{ASHRAE}, Thermal environmental conditions for human occupancy {ASHRAE}
+  standard 55-1966.
 
 \bibitem{fanger_thermal_1970}
 P.~O. Fanger,
   \href{https://www.cabdirect.org/cabdirect/abstract/19722700268}{Thermal
-  comfort. {Analysis} and applications in environmental engineering.}, Thermal
-  comfort. Analysis and applications in environmental engineering.
+  comfort. analysis and applications in environmental engineering.}
 \newline\urlprefix\url{https://www.cabdirect.org/cabdirect/abstract/19722700268}
 
 \bibitem{van_hoof_quantifying_2007}
@@ -184,16 +163,6 @@ M.~A. Humphreys, J.~Fergus~Nicol,
 \newblock \href {http://dx.doi.org/10.1016/S0378-7788(02)00018-X}
   {\path{doi:10.1016/S0378-7788(02)00018-X}}.
 \newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S037877880200018X}
-
-\bibitem{cheong_local_2007}
-K.~Cheong, W.~Yu, S.~Sekhar, K.~Tham, R.~Kosonen,
-  \href{http://linkinghub.elsevier.com/retrieve/pii/S036013230500380X}{Local
-  thermal sensation and comfort study in a field environment chamber served by
-  displacement ventilation system in the tropics}, Building and Environment
-  42~(2) (2007) 525--533.
-\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2005.09.008}
-  {\path{doi:10.1016/j.buildenv.2005.09.008}}.
-\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S036013230500380X}
 
 \bibitem{de_dear_developing_1998}
 R.~de~Dear, G.~S. Brager,
@@ -218,14 +187,20 @@ F.~Auffenberg, S.~Stein, A.~Rogers,
   Press, pp. 2547--2553, event-place: Buenos Aires, Argentina.
 \newline\urlprefix\url{http://dl.acm.org/citation.cfm?id=2832581.2832605}
 
-\bibitem{iso_iso_2005}
-ISO,
-  \href{https://www.iso.org/obp/ui/#iso:std:iso:7730:ed-3:v1:en}{{ISO} 7730:2005(en),
-  {Ergonomics} of the thermal environment — {Analytical} determination and
-  interpretation of thermal comfort using calculation of the {PMV} and {PPD}
-  indices and local thermal comfort criteria}, Tech. rep., International
-  Standard Organization (2005).
-\newline\urlprefix\url{https://www.iso.org/obp/ui/#iso:std:iso:7730:ed-3:v1:en}
+\bibitem{blazejczyk_comparison_2012}
+K.~Blazejczyk, Y.~Epstein, G.~Jendritzky, H.~Staiger, B.~Tinz,
+  \href{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3337419/}{Comparison of
+  {UTCI} to selected thermal indices} 56~(3)  515--535.
+\newblock \href {http://dx.doi.org/10.1007/s00484-011-0453-2}
+  {\path{doi:10.1007/s00484-011-0453-2}}.
+\newline\urlprefix\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3337419/}
+
+\bibitem{james_h._botsford_wet_1971}
+{JAMES H. BOTSFORD}, \href{https://doi.org/10.1080/0002889718506400}{A wet
+  globe thermometer for environmental heat measurement} 32~(1)  1--10.
+\newblock \href {http://dx.doi.org/10.1080/0002889718506400}
+  {\path{doi:10.1080/0002889718506400}}.
+\newline\urlprefix\url{https://doi.org/10.1080/0002889718506400}
 
 \bibitem{kingma_energy_2015}
 B.~Kingma, W.~van Marken~Lichtenbelt,
@@ -246,7 +221,7 @@ Z.~Wang, R.~de~Dear, M.~Luo, B.~Lin, Y.~He, A.~Ghahramani, Y.~Zhu,
 \bibitem{fanger_thermal_1972}
 P.~O. Fanger, \href{https://catalog.hathitrust.org/Record/001627231}{Thermal
   comfort: analysis and applications in environmental engineering},
-  McGraw-Hill, New York, 1972.
+  {McGraw}-Hill.
 \newline\urlprefix\url{https://catalog.hathitrust.org/Record/001627231}
 
 \bibitem{choi_cobi:_2010}
@@ -297,8 +272,7 @@ S.~Lu, W.~Wang, S.~Wang, E.~Cochran~Hameen,
 
 \bibitem{shapiro_environmental_1984}
 Y.~Shapiro, Y.~Epstein, Environmental physiology and indoor
-  climate—thermoregulation and thermal comfort, Energy and buildings 7~(1)
-  (1984) 29--34.
+  climate—thermoregulation and thermal comfort 7~(1)  29--34.
 
 \bibitem{gagge_effective_1971}
 A.~P. Gagge, An effective temperature scale based on a simple model of human
@@ -309,10 +283,9 @@ T.~Doherty, E.~A. Arens, Evaluation of the physiological bases of thermal
   comfort models  16.
 
 \bibitem{mcintyre_subjective_1972}
-D.~A. McIntyre, I.~D. Griffiths,
+D.~A. {McIntyre}, I.~D. Griffiths,
   \href{http://www.sciencedirect.com/science/article/pii/0013935172900485}{Subjective
-  response to radiant and convective environments}, Environmental Research
-  5~(4) (1972) 471--482.
+  response to radiant and convective environments} 5~(4)  471--482.
 \newblock \href {http://dx.doi.org/10.1016/0013-9351(72)90048-5}
   {\path{doi:10.1016/0013-9351(72)90048-5}}.
 \newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/0013935172900485}
@@ -405,118 +378,44 @@ R.~F. Rupp, J.~Kim, R.~de~Dear, E.~Ghisi,
   {\path{doi:10.1016/j.buildenv.2018.02.049}}.
 \newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132318301215}
 
-\bibitem{maykot_assessment_2018}
-J.~K. Maykot, R.~F. Rupp, E.~Ghisi,
-  \href{http://www.sciencedirect.com/science/article/pii/S0378778817324118}{Assessment
-  of gender on requirements for thermal comfort in office buildings located in
-  the brazilian humid subtropical climate} 158  1170--1183.
-\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2017.11.036}
-  {\path{doi:10.1016/j.enbuild.2017.11.036}}.
-\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0378778817324118}
-
 \bibitem{kantor_most_2011}
 N.~Kántor, J.~Unger,
   \href{https://link.springer.com/article/10.2478/s13533-011-0010-x}{The most
   problematic variable in the course of human-biometeorological comfort
-  assessment — the mean radiant temperature}, Central European Journal of
-  Geosciences 3~(1) (2011) 90--100.
+  assessment — the mean radiant temperature} 3~(1)  90--100.
 \newblock \href {http://dx.doi.org/10.2478/s13533-011-0010-x}
   {\path{doi:10.2478/s13533-011-0010-x}}.
 \newline\urlprefix\url{https://link.springer.com/article/10.2478/s13533-011-0010-x}
-
-\bibitem{standardization_iso7726_2001}
-I.~O.~f. Standardization, {ISO}7726 {Ergonomics} of the thermal environment.
-  {Instruments} for measuring physical quantities..pdf, Tech. Rep. ICS 13.180
-  (2001).
-
-\bibitem{degreef_simplified_1998}
-J.~M. DeGreef, K.~S. Chapman,
-  \href{https://search.proquest.com/docview/192625875/citation/326264D8A9E740A3PQ/1}{Simplified
-  thermal comfort evaluation of {MRT} gradients and power consumption predicted
-  with the {BCAP} methodology}, ASHRAE Transactions; Atlanta 104 (1998) 1090.
-\newline\urlprefix\url{https://search.proquest.com/docview/192625875/citation/326264D8A9E740A3PQ/1}
-
-\bibitem{graves_globe_1974}
-K.~W. Graves,
-  \href{http://oeh.tandfonline.com/doi/abs/10.1080/0002889748507003}{Globe
-  {Thermometer} {Evaluation}}, American Industrial Hygiene Association Journal
-  35~(1) (1974) 30--40.
-\newblock \href {http://dx.doi.org/10.1080/0002889748507003}
-  {\path{doi:10.1080/0002889748507003}}.
-\newline\urlprefix\url{http://oeh.tandfonline.com/doi/abs/10.1080/0002889748507003}
 
 \bibitem{thorsson_different_2007}
 S.~Thorsson, F.~Lindberg, I.~Eliasson, B.~Holmer,
   \href{http://onlinelibrary.wiley.com/doi/10.1002/joc.1537/abstract}{Different
   methods for estimating the mean radiant temperature in an outdoor urban
-  setting}, International Journal of Climatology 27~(14) (2007) 1983--1993.
+  setting} 27~(14)  1983--1993.
 \newblock \href {http://dx.doi.org/10.1002/joc.1537}
   {\path{doi:10.1002/joc.1537}}.
 \newline\urlprefix\url{http://onlinelibrary.wiley.com/doi/10.1002/joc.1537/abstract}
 
 \bibitem{degreef_calculation_2017}
-J.~M. DeGreef, K.~S. Chapman,
+J.~M. {DeGreef}, K.~S. Chapman,
   \href{https://www.nist.gov/publications/calculation-mean-radiant-temperature-directly-using-radiant-intensities}{Calculation
-  of the {Mean} {Radiant} {Temperature} {Directly} {Using} {Radiant}
-  {Intensities}}, ASHRAE Transactions\href {http://dx.doi.org/860796}
-  {\path{doi:860796}}.
+  of the mean radiant temperature directly using radiant intensities}\href
+  {http://dx.doi.org/860796} {\path{doi:860796}}.
 \newline\urlprefix\url{https://www.nist.gov/publications/calculation-mean-radiant-temperature-directly-using-radiant-intensities}
 
 \bibitem{energyplus_engineering_2013}
-EnergyPlus, Engineering {Reference}, THE BOARD OF TRUSTEES OF THE UNIVERSITY OF
-  ILLINOIS AND THE REGENTS OF THE UNIVERSITY OF CALIFORNIA THROUGH THE ERNEST
-  ORLANDO LAWRENCE BERKELEY NATIONAL LABORATORY., 2013, p 743 of 847.
+{EnergyPlus}, Engineering Reference, {THE} {BOARD} {OF} {TRUSTEES} {OF} {THE}
+  {UNIVERSITY} {OF} {ILLINOIS} {AND} {THE} {REGENTS} {OF} {THE} {UNIVERSITY}
+  {OF} {CALIFORNIA} {THROUGH} {THE} {ERNEST} {ORLANDO} {LAWRENCE} {BERKELEY}
+  {NATIONAL} {LABORATORY}., p 743 of 847.
 
 \bibitem{arens_modeling_2015}
 E.~Arens, T.~Hoyt, X.~Zhou, L.~Huang, H.~Zhang, S.~Schiavon,
-  \href{http://linkinghub.elsevier.com/retrieve/pii/S0360132314002960}{Modeling
-  the comfort effects of short-wave solar radiation indoors}, Building and
-  Environment 88 (2015) 3--9.
-\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2014.09.004}
-  {\path{doi:10.1016/j.buildenv.2014.09.004}}.
-\newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0360132314002960}
-
-\bibitem{middel_sky_2017}
-A.~Middel, J.~Lukasczyk, R.~Maciejewski, Sky {View} {Factors} from {Synthetic}
-  {Fisheye} {Photos} for {Thermal} {Comfort} {Routing}—{A} {Case} {Study} in
-  {Phoenix}, {Arizona}, Urban Planning 2~(1) (2017) 19.
-\newblock \href {http://dx.doi.org/10.17645/up.v2i1.855}
-  {\path{doi:10.17645/up.v2i1.855}}.
-
-\bibitem{thorsson_thermal_2007}
-S.~Thorsson, T.~Honjo, F.~Lindberg, I.~Eliasson, E.-M. Lim,
-  \href{https://doi.org/10.1177/0013916506294937}{Thermal {Comfort} and
-  {Outdoor} {Activity} in {Japanese} {Urban} {Public} {Places}}, Environment
-  and Behavior 39~(5) (2007) 660--684.
-\newblock \href {http://dx.doi.org/10.1177/0013916506294937}
-  {\path{doi:10.1177/0013916506294937}}.
-\newline\urlprefix\url{https://doi.org/10.1177/0013916506294937}
-
-\bibitem{arens_modeling_2015-1}
-E.~Arens, T.~Hoyt, X.~Zhou, L.~Huang, H.~Zhang, S.~Schiavon,
   \href{https://escholarship.org/uc/item/89m1h2dg}{Modeling the comfort effects
-  of short-wave solar radiation indoors - {eScholarship}} 88 (2015) 3--9.
+  of short-wave solar radiation indoors - {eScholarship}} 88  3--9.
 \newblock \href {http://dx.doi.org/10.1016/j.buildenv.2014.09.004}
   {\path{doi:10.1016/j.buildenv.2014.09.004}}.
 \newline\urlprefix\url{https://escholarship.org/uc/item/89m1h2dg}
-
-\bibitem{marino_effect_2017}
-C.~Marino, A.~Nucara, M.~Pietrafesa, E.~Polimeni,
-  \href{http://www.sciencedirect.com/science/article/pii/S2352710216301243}{The
-  effect of the short wave radiation and its reflected components on the mean
-  radiant temperature: modelling and preliminary experimental results}, Journal
-  of Building Engineering 9 (2017) 42--51.
-\newblock \href {http://dx.doi.org/10.1016/j.jobe.2016.11.008}
-  {\path{doi:10.1016/j.jobe.2016.11.008}}.
-\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S2352710216301243}
-
-\bibitem{chaudhuri_assuming_2016}
-T.~Chaudhuri, Y.~C. Soh, S.~Bose, L.~Xie, H.~Li, On assuming mean radiant
-  temperature equal to air temperature during {PMV}-based thermal comfort study
-  in air-conditioned buildings, in: {IECON} 2016 - 42nd Annual Conference of
-  the {IEEE} Industrial Electronics Society, pp. 7065--7070.
-\newblock \href {http://dx.doi.org/10.1109/IECON.2016.7793073}
-  {\path{doi:10.1109/IECON.2016.7793073}}.
 
 \bibitem{walikewitz_difference_2015}
 N.~Walikewitz, B.~Jänicke, M.~Langner, F.~Meier, W.~Endlicher,
@@ -528,28 +427,22 @@ N.~Walikewitz, B.~Jänicke, M.~Langner, F.~Meier, W.~Endlicher,
   {\path{doi:10.1016/j.buildenv.2014.11.004}}.
 \newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132314003576}
 
-\bibitem{american_society_of_heating_2013_2013}
-R.~a. A.-C.~E. American Society~of Heating, 2013 {ASHRAE} handbook., 2013,
-  oCLC: 862228017.
+\bibitem{chaudhuri_assuming_2016}
+T.~Chaudhuri, Y.~C. Soh, S.~Bose, L.~Xie, H.~Li, On assuming mean radiant
+  temperature equal to air temperature during {PMV}-based thermal comfort study
+  in air-conditioned buildings, in: {IECON} 2016 - 42nd Annual Conference of
+  the {IEEE} Industrial Electronics Society, pp. 7065--7070.
+\newblock \href {http://dx.doi.org/10.1109/IECON.2016.7793073}
+  {\path{doi:10.1109/IECON.2016.7793073}}.
 
 \bibitem{dambrosio_alfano_measurement_2013}
 F.~R. d’Ambrosio Alfano, M.~Dell’Isola, B.~I. Palella, G.~Riccio, A.~Russi,
   \href{http://www.sciencedirect.com/science/article/pii/S0360132313000498}{On
   the measurement of the mean radiant temperature and its influence on the
-  indoor thermal environment assessment}, Building and Environment 63 (2013)
-  79--88.
+  indoor thermal environment assessment} 63  79--88.
 \newblock \href {http://dx.doi.org/10.1016/j.buildenv.2013.01.026}
   {\path{doi:10.1016/j.buildenv.2013.01.026}}.
 \newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132313000498}
-
-\bibitem{park_comprehensive_2018}
-J.~Y. Park, Z.~Nagy,
-  \href{http://www.sciencedirect.com/science/article/pii/S1364032117313655}{Comprehensive
-  analysis of the relationship between thermal comfort and building control
-  research - a data-driven literature review} 82  2664--2679.
-\newblock \href {http://dx.doi.org/10.1016/j.rser.2017.09.102}
-  {\path{doi:10.1016/j.rser.2017.09.102}}.
-\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S1364032117313655}
 
 \bibitem{bortolini_analysis_2019}
 R.~Bortolini, N.~Forcada,
@@ -560,14 +453,76 @@ R.~Bortolini, N.~Forcada,
   {\path{doi:10.1080/09613218.2019.1609291}}.
 \newline\urlprefix\url{https://doi.org/10.1080/09613218.2019.1609291}
 
+\bibitem{bermejo_design_2012}
+P.~Bermejo, L.~Redondo, L.~de~la Ossa, D.~Rodríguez, J.~Flores, C.~Urea, J.~A.
+  Gámez, J.~M. Puerta,
+  \href{http://www.sciencedirect.com/science/article/pii/S0378778812001247}{Design
+  and simulation of a thermal comfort adaptive system based on fuzzy logic and
+  on-line learning} 49  367--379.
+\newblock \href {http://dx.doi.org/10.1016/j.enbuild.2012.02.032}
+  {\path{doi:10.1016/j.enbuild.2012.02.032}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0378778812001247}
+
+\bibitem{daum_personalized_2011}
+D.~Daum, F.~Haldi, N.~Morel,
+  \href{http://www.sciencedirect.com/science/article/pii/S0360132310001915}{A
+  personalized measure of thermal comfort for building controls} 46~(1)  3--11.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2010.06.011}
+  {\path{doi:10.1016/j.buildenv.2010.06.011}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132310001915}
+
+\bibitem{ghahramani_online_2015}
+A.~Ghahramani, C.~Tang, B.~Becerik-Gerber,
+  \href{http://www.sciencedirect.com/science/article/pii/S0360132315001833}{An
+  online learning approach for quantifying personalized thermal comfort via
+  adaptive stochastic modeling} 92  86--96.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2015.04.017}
+  {\path{doi:10.1016/j.buildenv.2015.04.017}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132315001833}
+
+\bibitem{ghahramani_infrared_2016}
+A.~Ghahramani, G.~Castro, B.~Becerik-Gerber, X.~Yu,
+  \href{http://www.sciencedirect.com/science/article/pii/S0360132316303456}{Infrared
+  thermography of human face for monitoring thermoregulation performance and
+  estimating personal thermal comfort} 109  1--11.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2016.09.005}
+  {\path{doi:10.1016/j.buildenv.2016.09.005}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132316303456}
+
+\bibitem{li_personalized_2017}
+D.~Li, C.~C. Menassa, V.~R. Kamat,
+  \href{http://www.sciencedirect.com/science/article/pii/S0360132317304535}{Personalized
+  human comfort in indoor building environments under diverse conditioning
+  modes} 126  304--317.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2017.10.004}
+  {\path{doi:10.1016/j.buildenv.2017.10.004}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132317304535}
+
 \bibitem{huizenga_skin_2004}
 C.~Huizenga, H.~Zhang, E.~Arens, D.~Wang,
   \href{http://linkinghub.elsevier.com/retrieve/pii/S0306456504001032}{Skin and
-  core temperature response to partial- and whole-body heating and cooling},
-  Journal of Thermal Biology 29~(7-8) (2004) 549--558.
+  core temperature response to partial- and whole-body heating and cooling}
+  29~(7)  549--558.
 \newblock \href {http://dx.doi.org/10.1016/j.jtherbio.2004.08.024}
   {\path{doi:10.1016/j.jtherbio.2004.08.024}}.
 \newline\urlprefix\url{http://linkinghub.elsevier.com/retrieve/pii/S0306456504001032}
+
+\bibitem{takada_prediction_2013}
+S.~Takada, S.~Matsumoto, T.~Matsushita,
+  \href{http://www.sciencedirect.com/science/article/pii/S0360132313001820}{Prediction
+  of whole-body thermal sensation in the non-steady state based on skin
+  temperature} 68  123--133.
+\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2013.06.004}
+  {\path{doi:10.1016/j.buildenv.2013.06.004}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132313001820}
+
+\bibitem{bicego_physiology_2007}
+K.~C. Bicego, R.~C.~H. Barros, L.~G.~S. Branco,
+  \href{http://www.sciencedirect.com/science/article/pii/S1095643306003047}{Physiology
+  of temperature regulation: Comparative aspects} 147~(3)  616--639.
+\newblock \href {http://dx.doi.org/10.1016/j.cbpa.2006.06.032}
+  {\path{doi:10.1016/j.cbpa.2006.06.032}}.
+\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S1095643306003047}
 
 \bibitem{garg_smart_2000}
 V.~Garg, N.~K. Bansal,
@@ -581,6 +536,9 @@ V.~Garg, N.~K. Bansal,
 D.~Anguita, A.~Ghio, L.~Oneto, X.~Parra, J.~L. Reyes-Ortiz, A public domain
   dataset for human activity recognition using smartphones, in: {ESANN}.
 
+\bibitem{cena_bioengineering_1981}
+Bioengineering, thermal physiology, and comfort.
+
 \bibitem{lucchi_applications_2018}
 E.~Lucchi,
   \href{http://www.sciencedirect.com/science/article/pii/S1364032117314119}{Applications
@@ -589,14 +547,5 @@ E.~Lucchi,
 \newblock \href {http://dx.doi.org/10.1016/j.rser.2017.10.031}
   {\path{doi:10.1016/j.rser.2017.10.031}}.
 \newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S1364032117314119}
-
-\bibitem{ghahramani_infrared_2016}
-A.~Ghahramani, G.~Castro, B.~Becerik-Gerber, X.~Yu,
-  \href{http://www.sciencedirect.com/science/article/pii/S0360132316303456}{Infrared
-  thermography of human face for monitoring thermoregulation performance and
-  estimating personal thermal comfort} 109  1--11.
-\newblock \href {http://dx.doi.org/10.1016/j.buildenv.2016.09.005}
-  {\path{doi:10.1016/j.buildenv.2016.09.005}}.
-\newline\urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0360132316303456}
 
 \end{thebibliography}
