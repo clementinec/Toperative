@@ -1,5 +1,3 @@
-# Toperative
-Getting the pieces ready for publication. 
+# Operative Temperature paper
 
-Focus specifically on telling a story - which needs to be 
-
+Primarily on the convective and radiative heat transfer coefficient and comparisons. 
